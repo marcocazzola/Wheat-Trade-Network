@@ -1,0 +1,39 @@
+Id,Country,lat,long,Zone,% UKR imports
+ARM,Armenia,40.0,45.0,Asia,5.55
+AZE,Azerbaijan,40.5,47.5,Asia,0.01
+BLR,Belarus,53.0,28.0,Europe,9.68
+BGR,Bulgaria,43.0,25.0,Europe,6.67
+BFA,Burkina Faso,13.0,-2.0,Africa,0.51
+KHM,Cambodia,13.0,105.0,Asia,2.32
+CIV,Côte d'Ivoire,8.0,-5.0,Africa,1.29
+DNK,Denmark,56.0,10.0,Europe,1.81
+ECU,Ecuador,-2.0,-77.5,South America,2.16
+FRA,France,46.0,2.0,Europe,1.38
+DEU,Germany,51.0,9.0,Europe,0.67
+GRC,Greece,39.0,22.0,Europe,2.03
+IDN,Indonesia,-5.0,120.0,Asia,25.87
+ISR,Israel,31.5,34.75,Asia,28.28
+ITA,Italy,42.8333,12.8333,Europe,2.55
+JOR,Jordan,31.0,36.0,Asia,11.81
+KEN,Kenya,1.0,38.0,Africa,10.36
+KOR,"Korea, Republic of",37.0,127.5,Asia,12.76
+KWT,Kuwait,29.3375,47.6581,Asia,0.01
+LTU,Lithuania,56.0,24.0,Europe,2.06
+MYS,Malaysia,2.5,112.5,Asia,10.79
+MAR,Morocco,32.0,-5.0,Africa,19.75
+MMR,Myanmar,22.0,98.0,Asia,8.59
+NLD,Netherlands,52.5,5.75,Europe,3.1
+NOR,Norway,62.0,10.0,Europe,0.69
+PHL,Philippines,13.0,122.0,Asia,15.09
+POL,Poland,52.0,20.0,Europe,1.09
+SEN,Senegal,14.0,-14.0,Africa,4.05
+ZAF,South Africa,-29.0,24.0,Africa,3.95
+ESP,Spain,40.0,-4.0,Europe,10.53
+CHE,Switzerland,47.0,8.0,Europe,1.21
+THA,Thailand,15.0,100.0,Asia,27.21
+TUN,Tunisia,34.0,9.0,Africa,48.4
+TUR,Turkey,39.0,35.0,Asia,10.0
+ARE,United Arab Emirates,24.0,54.0,Asia,0.98
+GBR,United Kingdom,54.0,-2.0,Europe,4.47
+YEM,Yemen,15.0,48.0,Asia,6.92
+ZWE,Zimbabwe,-20.0,30.0,Africa,12.02

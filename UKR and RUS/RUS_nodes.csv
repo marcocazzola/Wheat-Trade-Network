@@ -1,0 +1,108 @@
+Id,Country,lat,long,Zone,% RUS imports
+ALB,Albania,41.0,20.0,Europe,78.96
+DZA,Algeria,28.0,3.0,Africa,0.0
+AGO,Angola,-12.5,18.5,Africa,15.86
+ARM,Armenia,40.0,45.0,Asia,93.44
+AUT,Austria,47.3333,13.3333,Europe,0.01
+AZE,Azerbaijan,40.5,47.5,Asia,85.02
+BGD,Bangladesh,24.0,90.0,Asia,53.55
+BLR,Belarus,53.0,28.0,Europe,87.74
+BEN,Benin,9.5,2.25,Africa,99.8
+BRA,Brazil,-10.0,-55.0,South America,1.27
+BGR,Bulgaria,43.0,25.0,Europe,4.2
+BFA,Burkina Faso,13.0,-2.0,Africa,47.54
+BDI,Burundi,-3.5,30.0,Africa,26.26
+KHM,Cambodia,13.0,105.0,Asia,1.15
+CMR,Cameroon,6.0,12.0,Africa,46.85
+CPV,Cape Verde,16.0,-24.0,Africa,24.47
+CHN,China,35.0,105.0,Asia,0.88
+COG,Congo,-1.0,15.0,Africa,57.11
+COD,Democratic Republic of the Congo,0.0,25.0,Africa,51.37
+CIV,Cote d'Ivoire,8.0,-5.0,Africa,14.68
+CYP,Cyprus,35.0,33.0,Asia,41.68
+DNK,Denmark,56.0,10.0,Europe,3.13
+DJI,Djibouti,11.5,43.0,Africa,88.61
+EGY,Egypt,27.0,30.0,Africa,63.49
+EST,Estonia,59.0,26.0,Europe,0.5
+ETH,Ethiopia,8.0,38.0,Africa,8.5
+FIN,Finland,64.0,26.0,Europe,0.08
+FRA,France,46.0,2.0,Europe,0.21
+GAB,Gabon,-1.0,11.75,Africa,7.13
+GMB,Gambia,13.4667,-16.5667,Africa,49.28
+GEO,Georgia,42.0,43.5,Asia,82.55
+DEU,Germany,51.0,9.0,Europe,0.09
+GHA,Ghana,8.0,-2.0,Africa,23.01
+GRC,Greece,39.0,22.0,Europe,18.44
+GIN,Guinea,11.0,-10.0,Africa,37.56
+HTI,Haiti,19.0,-72.4167,North America,12.55
+HUN,Hungary,47.0,20.0,Europe,0.07
+IDN,Indonesia,-5.0,120.0,Asia,3.02
+IRN,Islamic Republic of Iran,32.0,53.0,Asia,45.94
+IRL,Ireland,53.0,-8.0,Europe,2.41
+ISR,Israel,31.5,34.75,Asia,22.77
+ITA,Italy,42.8333,12.8333,Europe,1.32
+JPN,Japan,36.0,138.0,Asia,0.72
+JOR,Jordan,31.0,36.0,Asia,0.46
+KAZ,Kazakhstan,48.0,68.0,Asia,99.68
+KEN,Kenya,1.0,38.0,Africa,23.36
+PRK,Democratic People's Republic of Korea,40.0,127.0,Asia,85.98
+KOR,Republic of Korea,37.0,127.5,Asia,0.2
+KGZ,Kyrgyzstan,41.0,75.0,Asia,12.54
+LAO,Lao People's Democratic Republic,18.0,105.0,Asia,95.3
+LVA,Latvia,57.0,25.0,Europe,56.63
+LBN,Lebanon,33.8333,35.8333,Asia,52.36
+LBR,Liberia,6.5,-9.5,Africa,30.98
+LBY,Libyan Arab Jamahiriya,25.0,17.0,Africa,36.29
+LTU,Lithuania,56.0,24.0,Europe,42.01
+MKD,North Macedonia,41.8333,22.0,Europe,0.5
+MDG,Madagascar,-20.0,47.0,Africa,71.43
+MWI,Malawi,-13.5,34.0,Africa,23.02
+MYS,Malaysia,2.5,112.5,Asia,3.57
+MLI,Mali,17.0,-4.0,Africa,33.1
+MLT,Malta,35.8333,14.5833,Europe,18.43
+MEX,Mexico,23.0,-102.0,North America,2.1
+MDA,Republic of Moldova,47.0,29.0,Europe,13.82
+MNG,Mongolia,46.0,105.0,Asia,100.0
+MAR,Morocco,32.0,-5.0,Africa,10.84
+MOZ,Mozambique,-18.25,35.0,Africa,41.81
+MMR,Myanmar,22.0,98.0,Asia,2.39
+NAM,Namibia,-22.0,17.0,Africa,34.88
+NLD,Netherlands,52.5,5.75,Europe,0.04
+NIC,Nicaragua,13.0,-85.0,North America,84.71
+NGA,Nigeria,10.0,8.0,Africa,17.55
+NOR,Norway,62.0,10.0,Europe,7.68
+OMN,Oman,21.0,57.0,Asia,48.76
+PER,Peru,-10.0,-76.0,South America,2.19
+PHL,Philippines,13.0,122.0,Asia,3.37
+POL,Poland,52.0,20.0,Europe,0.02
+QAT,Qatar,25.5,51.25,Asia,38.2
+ROU,Romania,46.0,25.0,Europe,0.37
+RWA,Rwanda,-2.0,30.0,Africa,37.39
+SEN,Senegal,14.0,-14.0,Africa,60.16
+SVK,Slovakia,48.6667,19.5,Europe,0.0
+SOM,Somalia,10.0,49.0,Africa,24.64
+ZAF,South Africa,-29.0,24.0,Africa,22.52
+ESP,Spain,40.0,-4.0,Europe,0.08
+LKA,Sri Lanka,7.0,81.0,Asia,21.12
+SDN,Sudan,15.0,30.0,Africa,45.84
+SWZ,Swaziland,-26.5,31.5,Africa,9.4
+SWE,Sweden,62.0,15.0,Europe,1.82
+CHE,Switzerland,47.0,8.0,Europe,15.55
+SYR,Syrian Arab Republic,35.0,38.0,Asia,26.35
+TJK,Tajikistan,39.0,71.0,Asia,0.0
+TZA,United Republic of Tanzania,-6.0,35.0,Africa,60.06
+THA,Thailand,15.0,100.0,Asia,0.04
+TGO,Togo,8.0,1.1667,Africa,30.79
+TUN,Tunisia,34.0,9.0,Africa,3.92
+TUR,Turkey,39.0,35.0,Asia,65.0
+TKM,Turkmenistan,40.0,60.0,Asia,1.69
+UGA,Uganda,1.0,32.0,Africa,31.08
+UKR,Ukraine,49.0,32.0,Europe,81.33
+ARE,United Arab Emirates,24.0,54.0,Asia,45.92
+GBR,United Kingdom,54.0,-2.0,Europe,0.29
+UZB,Uzbekistan,41.0,64.0,Asia,0.47
+VEN,Bolivarian Republic of Venezuela,8.0,-66.0,South America,48.25
+VNM,Viet Nam,16.0,106.0,Asia,17.52
+YEM,Yemen,15.0,48.0,Asia,30.79
+ZWE,Zimbabwe,-20.0,30.0,Africa,3.06
+RUS,Russia,60,100,Asia,0
