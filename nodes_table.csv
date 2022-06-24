@@ -1,0 +1,196 @@
+Id,Country,lat,long,Zone
+AFG,Afghanistan,33.0,65.0,Asia
+ALB,Albania,41.0,20.0,Europe
+DZA,Algeria,28.0,3.0,Africa
+AND,Andorra,42.5,1.6,Europe
+AGO,Angola,-12.5,18.5,Africa
+ATG,Antigua and Barbuda,17.05,-61.8,North America
+ARG,Argentina,-34.0,-64.0,South America
+ARM,Armenia,40.0,45.0,Asia
+ABW,Aruba,12.5,-69.9667,North America
+AUS,Australia,-27.0,133.0,Oceania
+AUT,Austria,47.3333,13.3333,Europe
+AZE,Azerbaijan,40.5,47.5,Asia
+BHS,Bahamas,24.25,-76.0,North America
+BHR,Bahrain,26.0,50.55,Asia
+BGD,Bangladesh,24.0,90.0,Asia
+BRB,Barbados,13.1667,-59.5333,North America
+BLR,Belarus,53.0,28.0,Europe
+BEL,Belgium,50.8333,4.0,Europe
+BLZ,Belize,17.25,-88.75,North America
+BEN,Benin,9.5,2.25,Africa
+BMU,Bermuda,32.3333,-64.75,North America
+BTN,Bhutan,27.5,90.5,Asia
+BOL,"Bolivia, Plurinational State of",-17.0,-65.0,South America
+BIH,Bosnia and Herzegovina,44.0,18.0,Europe
+BWA,Botswana,-22.0,24.0,Africa
+BRA,Brazil,-10.0,-55.0,South America
+BRN,Brunei Darussalam,4.5,114.6667,Asia
+BGR,Bulgaria,43.0,25.0,Europe
+BFA,Burkina Faso,13.0,-2.0,Africa
+BDI,Burundi,-3.5,30.0,Africa
+KHM,Cambodia,13.0,105.0,Asia
+CMR,Cameroon,6.0,12.0,Africa
+CAN,Canada,60.0,-95.0,North America
+CPV,Cape Verde,16.0,-24.0,Africa
+CAF,Central African Republic,7.0,21.0,Africa
+CHL,Chile,-30.0,-71.0,South America
+CHN,China,35.0,105.0,Asia
+COL,Colombia,4.0,-72.0,South America
+COM,Comoros,-12.1667,44.25,Africa
+COG,Congo,-1.0,15.0,Africa
+COD,"Congo, the Democratic Republic of the",0.0,25.0,Africa
+COK,Cook Islands,-21.2333,-159.7667,Oceania
+CRI,Costa Rica,10.0,-84.0,North America
+CIV,Côte d'Ivoire,8.0,-5.0,Africa
+HRV,Croatia,45.1667,15.5,Europe
+CUB,Cuba,21.5,-80.0,North America
+CYP,Cyprus,35.0,33.0,Asia
+CZE,Czech Republic,49.75,15.5,Europe
+DNK,Denmark,56.0,10.0,Europe
+DJI,Djibouti,11.5,43.0,Africa
+DOM,Dominican Republic,19.0,-70.6667,North America
+ECU,Ecuador,-2.0,-77.5,South America
+EGY,Egypt,27.0,30.0,Africa
+SLV,El Salvador,13.8333,-88.9167,North America
+GNQ,Equatorial Guinea,2.0,10.0,Africa
+EST,Estonia,59.0,26.0,Europe
+ETH,Ethiopia,8.0,38.0,Africa
+FJI,Fiji,-18.0,175.0,Oceania
+FIN,Finland,64.0,26.0,Europe
+FRA,France,46.0,2.0,Europe
+PYF,French Polynesia,-15.0,-140.0,Oceania
+GAB,Gabon,-1.0,11.75,Africa
+GMB,Gambia,13.4667,-16.5667,Africa
+GEO,Georgia,42.0,43.5,Asia
+DEU,Germany,51.0,9.0,Europe
+GHA,Ghana,8.0,-2.0,Africa
+GIB,Gibraltar,36.1833,-5.3667,Europe
+GRC,Greece,39.0,22.0,Europe
+GRL,Greenland,72.0,-40.0,North America
+GRD,Grenada,12.1167,-61.6667,North America
+GTM,Guatemala,15.5,-90.25,North America
+GIN,Guinea,11.0,-10.0,Africa
+GUY,Guyana,5.0,-59.0,South America
+HTI,Haiti,19.0,-72.4167,North America
+HND,Honduras,15.0,-86.5,North America
+HKG,Hong Kong,22.25,114.1667,Asia
+HUN,Hungary,47.0,20.0,Europe
+ISL,Iceland,65.0,-18.0,Europe
+IND,India,20.0,77.0,Asia
+IDN,Indonesia,-5.0,120.0,Asia
+IRN,"Iran, Islamic Republic of",32.0,53.0,Asia
+IRQ,Iraq,33.0,44.0,Asia
+IRL,Ireland,53.0,-8.0,Europe
+ISR,Israel,31.5,34.75,Asia
+ITA,Italy,42.8333,12.8333,Europe
+JAM,Jamaica,18.25,-77.5,North America
+JPN,Japan,36.0,138.0,Asia
+JOR,Jordan,31.0,36.0,Asia
+KAZ,Kazakhstan,48.0,68.0,Asia
+KEN,Kenya,1.0,38.0,Africa
+KIR,Kiribati,1.4167,173.0,Oceania
+PRK,"Korea, Democratic People's Republic of",40.0,127.0,Asia
+KOR,"Korea, Republic of",37.0,127.5,Asia
+KWT,Kuwait,29.3375,47.6581,Asia
+KGZ,Kyrgyzstan,41.0,75.0,Asia
+LAO,Lao People's Democratic Republic,18.0,105.0,Asia
+LVA,Latvia,57.0,25.0,Europe
+LBN,Lebanon,33.8333,35.8333,Asia
+LSO,Lesotho,-29.5,28.5,Africa
+LBR,Liberia,6.5,-9.5,Africa
+LBY,Libyan Arab Jamahiriya,25.0,17.0,Africa
+LTU,Lithuania,56.0,24.0,Europe
+LUX,Luxembourg,49.75,6.1667,Europe
+MAC,Macao,22.1667,113.55,Asia
+MKD,"Macedonia, the former Yugoslav Republic of",41.8333,22.0,Europe
+MDG,Madagascar,-20.0,47.0,Africa
+MWI,Malawi,-13.5,34.0,Africa
+MYS,Malaysia,2.5,112.5,Asia
+MDV,Maldives,3.25,73.0,Asia
+MLI,Mali,17.0,-4.0,Africa
+MLT,Malta,35.8333,14.5833,Europe
+MHL,Marshall Islands,9.0,168.0,Oceania
+MRT,Mauritania,20.0,-12.0,Africa
+MUS,Mauritius,-20.2833,57.55,Africa
+MEX,Mexico,23.0,-102.0,North America
+MDA,"Moldova, Republic of",47.0,29.0,Europe
+MNG,Mongolia,46.0,105.0,Asia
+MNE,Montenegro,42.0,19.0,Europe
+MAR,Morocco,32.0,-5.0,Africa
+MOZ,Mozambique,-18.25,35.0,Africa
+MMR,Myanmar,22.0,98.0,Asia
+NAM,Namibia,-22.0,17.0,Africa
+NPL,Nepal,28.0,84.0,Asia
+NLD,Netherlands,52.5,5.75,Europe
+NCL,New Caledonia,-21.5,165.5,Oceania
+NZL,New Zealand,-41.0,174.0,Oceania
+NIC,Nicaragua,13.0,-85.0,North America
+NER,Niger,16.0,8.0,Africa
+NGA,Nigeria,10.0,8.0,Africa
+NOR,Norway,62.0,10.0,Europe
+OMN,Oman,21.0,57.0,Asia
+PAK,Pakistan,30.0,70.0,Asia
+PSE,"Palestinian Territory, Occupied",32.0,35.25,Asia
+PAN,Panama,9.0,-80.0,North America
+PNG,Papua New Guinea,-6.0,147.0,Oceania
+PRY,Paraguay,-23.0,-58.0,South America
+PER,Peru,-10.0,-76.0,South America
+PHL,Philippines,13.0,122.0,Asia
+POL,Poland,52.0,20.0,Europe
+PRT,Portugal,39.5,-8.0,Europe
+QAT,Qatar,25.5,51.25,Asia
+ROU,Romania,46.0,25.0,Europe
+RUS,Russian Federation,60.0,100.0,Asia
+RWA,Rwanda,-2.0,30.0,Africa
+SHN,"Saint Helena, Ascension and Tristan da Cunha",-15.9333,-5.7,Africa
+LCA,Saint Lucia,13.8833,-61.1333,North America
+VCT,Saint Vincent and the Grenadines,13.25,-61.2,North America
+WSM,Samoa,-13.5833,-172.3333,Oceania
+SAU,Saudi Arabia,25.0,45.0,Asia
+SEN,Senegal,14.0,-14.0,Africa
+SRB,Serbia,44.0,21.0,Europe
+SYC,Seychelles,-4.5833,55.6667,Africa
+SLE,Sierra Leone,8.5,-11.5,Africa
+SGP,Singapore,1.3667,103.8,Asia
+SVK,Slovakia,48.6667,19.5,Europe
+SVN,Slovenia,46.0,15.0,Europe
+SLB,Solomon Islands,-8.0,159.0,Oceania
+SOM,Somalia,10.0,49.0,Africa
+ZAF,South Africa,-29.0,24.0,Africa
+SSD,South Sudan,8.0,30.0,Africa
+ESP,Spain,40.0,-4.0,Europe
+LKA,Sri Lanka,7.0,81.0,Asia
+SDN,Sudan,15.0,30.0,Africa
+SUR,Suriname,4.0,-56.0,South America
+SWZ,Swaziland,-26.5,31.5,Africa
+SWE,Sweden,62.0,15.0,Europe
+CHE,Switzerland,47.0,8.0,Europe
+SYR,Syrian Arab Republic,35.0,38.0,Asia
+TJK,Tajikistan,39.0,71.0,Asia
+TZA,"Tanzania, United Republic of",-6.0,35.0,Africa
+THA,Thailand,15.0,100.0,Asia
+TGO,Togo,8.0,1.1667,Africa
+TON,Tonga,-20.0,-175.0,Oceania
+TTO,Trinidad and Tobago,11.0,-61.0,North America
+TUN,Tunisia,34.0,9.0,Africa
+TUR,Turkey,39.0,35.0,Asia
+TKM,Turkmenistan,40.0,60.0,Asia
+TUV,Tuvalu,-8.0,178.0,Oceania
+UGA,Uganda,1.0,32.0,Africa
+UKR,Ukraine,49.0,32.0,Europe
+ARE,United Arab Emirates,24.0,54.0,Asia
+GBR,United Kingdom,54.0,-2.0,Europe
+USA,United States,38.0,-97.0,North America
+URY,Uruguay,-33.0,-56.0,South America
+UZB,Uzbekistan,41.0,64.0,Asia
+VUT,Vanuatu,-16.0,167.0,Oceania
+VEN,"Venezuela, Bolivarian Republic of",8.0,-66.0,South America
+VNM,Viet Nam,16.0,106.0,Asia
+VGB,"Virgin Islands, British",18.5,-64.5,North America
+WLF,Wallis and Futuna,-13.3,-176.2,Oceania
+YEM,Yemen,15.0,48.0,Asia
+ZMB,Zambia,-15.0,30.0,Africa
+ZWE,Zimbabwe,-20.0,30.0,Africa
+CUW,Curacao,12.16957,-68.990021,North America
+SXM,Sint Maarten,18.04248,-63.054829,North America

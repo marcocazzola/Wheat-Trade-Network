@@ -1,0 +1,1976 @@
+Source,Target,Weight,SourceZone,TargetZone
+ALB,FRA,9.97,Europe,Europe
+DZA,CAN,0.82,Africa,North America
+AZE,IRN,315.0,Asia,Asia
+ARG,DZA,50592.525,South America,Africa
+ARG,BGD,72966.719,South America,Asia
+ARG,BOL,10714.695,South America,South America
+ARG,BRA,1166823.861,South America,South America
+ARG,KHM,629.293,South America,Asia
+ARG,CAN,2626.933,South America,North America
+ARG,CHL,93133.742,South America,South America
+ARG,COL,4193.285,South America,South America
+ARG,COG,2751.798,South America,Africa
+ARG,ECU,22016.175,South America,South America
+ARG,FRA,3.185,South America,Europe
+ARG,DEU,44.514,South America,Europe
+ARG,IDN,436978.98,South America,Asia
+ARG,ITA,1.143,South America,Europe
+ARG,KEN,103214.288,South America,Africa
+ARG,KOR,0.036000000000000004,South America,Asia
+ARG,MDG,4697.458,South America,Africa
+ARG,MYS,10017.496,South America,Asia
+ARG,MAR,19867.874,South America,Africa
+ARG,NAM,1228.824,South America,Africa
+ARG,NLD,1354.083,South America,Europe
+ARG,NZL,3522.212,South America,Oceania
+ARG,NGA,69240.766,South America,Africa
+ARG,PRY,7.289,South America,South America
+ARG,PER,57660.673,South America,South America
+ARG,PHL,12093.336,South America,Asia
+ARG,RWA,4266.501,South America,Africa
+ARG,SEN,5551.836,South America,Africa
+ARG,VNM,53453.758,South America,Asia
+ARG,ZAF,1946.4530000000002,South America,Africa
+ARG,SWZ,1658.317,South America,Africa
+ARG,CHE,1505.672,South America,Europe
+ARG,THA,79822.3,South America,Asia
+ARG,ARE,4004.578,South America,Asia
+ARG,UGA,43139.922,South America,Africa
+ARG,USA,9496.780999999999,South America,North America
+ARG,URY,297.407,South America,South America
+ARG,ZMB,2105.574,South America,Africa
+AUS,ARG,0.121,Oceania,South America
+AUS,BHR,28020.138,Oceania,Asia
+AUS,SLB,5708.684,Oceania,Oceania
+AUS,BRN,8.554,Oceania,Asia
+AUS,MMR,50756.568,Oceania,Asia
+AUS,KHM,3017.7400000000002,Oceania,Asia
+AUS,CAN,0.787,Oceania,North America
+AUS,LKA,19063.021,Oceania,Asia
+AUS,CHL,0.134,Oceania,South America
+AUS,CHN,89561.785,Oceania,Asia
+AUS,FJI,50555.625,Oceania,Oceania
+AUS,FRA,10.722,Oceania,Europe
+AUS,PYF,166.006,Oceania,Oceania
+AUS,HKG,159.02499999999998,Oceania,Asia
+AUS,IDN,246789.334,Oceania,Asia
+AUS,IRL,0.59,Oceania,Europe
+AUS,JPN,253589.799,Oceania,Asia
+AUS,JOR,80.452,Oceania,Asia
+AUS,KEN,12358.793,Oceania,Africa
+AUS,KOR,309275.815,Oceania,Asia
+AUS,KWT,113788.053,Oceania,Asia
+AUS,LUX,20.969,Oceania,Europe
+AUS,MYS,148320.356,Oceania,Asia
+AUS,MUS,51.877,Oceania,Africa
+AUS,OMN,22358.909,Oceania,Asia
+AUS,NCL,3769.448,Oceania,Oceania
+AUS,NZL,116435.39,Oceania,Oceania
+AUS,PNG,62220.997,Oceania,Oceania
+AUS,PHL,434714.141,Oceania,Asia
+AUS,SAU,1226.634,Oceania,Asia
+AUS,IND,534.08,Oceania,Asia
+AUS,SGP,28358.093999999997,Oceania,Asia
+AUS,VNM,229092.363,Oceania,Asia
+AUS,ZAF,0.002,Oceania,Africa
+AUS,ESP,0.14,Oceania,Europe
+AUS,CHE,0.059,Oceania,Europe
+AUS,THA,106867.245,Oceania,Asia
+AUS,ARE,24644.551000000003,Oceania,Asia
+AUS,EGY,19479.002,Oceania,Africa
+AUS,GBR,2709.201,Oceania,Europe
+AUS,TZA,144.925,Oceania,Africa
+AUS,USA,5.741,Oceania,North America
+AUS,WLF,0.034,Oceania,Oceania
+AUS,YEM,284041.43799999997,Oceania,Asia
+AUT,AZE,392.198,Europe,Asia
+AUT,BEL,32.299,Europe,Europe
+AUT,BIH,1.133,Europe,Europe
+AUT,BGR,1136.0059999999999,Europe,Europe
+AUT,BLR,24.841,Europe,Europe
+AUT,CAN,0.186,Europe,North America
+AUT,CHL,6.626,Europe,South America
+AUT,COG,31.663,Europe,Africa
+AUT,HRV,635.7729999999999,Europe,Europe
+AUT,CYP,814.075,Europe,Asia
+AUT,CZE,521.837,Europe,Europe
+AUT,DNK,59.06100000000001,Europe,Europe
+AUT,FRA,4080.84,Europe,Europe
+AUT,GEO,17.084,Europe,Asia
+AUT,DEU,39653.019,Europe,Europe
+AUT,GRC,1004.6229999999999,Europe,Europe
+AUT,HUN,820.355,Europe,Europe
+AUT,ITA,132288.335,Europe,Europe
+AUT,KAZ,22.737000000000002,Europe,Asia
+AUT,LVA,0.6599999999999999,Europe,Europe
+AUT,LBY,1.633,Europe,Africa
+AUT,LTU,49.425,Europe,Europe
+AUT,LUX,265.82,Europe,Europe
+AUT,NLD,1875.376,Europe,Europe
+AUT,NGA,10.666,Europe,Africa
+AUT,POL,349.807,Europe,Europe
+AUT,PRT,4.747,Europe,Europe
+AUT,ROU,2599.9449999999997,Europe,Europe
+AUT,RUS,165.34199999999998,Europe,Asia
+AUT,SRB,11.583,Europe,Europe
+AUT,SVK,509.551,Europe,Europe
+AUT,SVN,1983.204,Europe,Europe
+AUT,ESP,2564.803,Europe,Europe
+AUT,SWE,74.346,Europe,Europe
+AUT,CHE,14832.464,Europe,Europe
+AUT,THA,7853.946,Europe,Asia
+AUT,TUR,2.391,Europe,Asia
+AUT,TKM,18.859,Europe,Asia
+AUT,UKR,143.60399999999998,Europe,Europe
+AUT,MKD,834.634,Europe,Europe
+AUT,GBR,4.92,Europe,Europe
+AUT,USA,14.058,Europe,North America
+AUT,BFA,0.089,Europe,Africa
+BHR,BRN,3.72,Asia,Asia
+BGD,IRL,1.771,Asia,Europe
+BGD,SGP,1.264,Asia,Asia
+ARM,BEL,1.012,Asia,Europe
+ARM,FRA,4.169,Asia,Europe
+ARM,USA,6.101,Asia,North America
+BEL,AUT,1873.8609999999999,Europe,Europe
+BEL,BHR,13.125,Europe,Asia
+BEL,BDI,0.012,Europe,Africa
+BEL,CAN,0.069,Europe,North America
+BEL,COG,0.038,Europe,Africa
+BEL,COD,0.374,Europe,Africa
+BEL,CYP,0.092,Europe,Asia
+BEL,CZE,389.63100000000003,Europe,Europe
+BEL,DNK,26.096,Europe,Europe
+BEL,FRA,12335.491,Europe,Europe
+BEL,PYF,0.462,Europe,Oceania
+BEL,DEU,19438.081,Europe,Europe
+BEL,GRC,0.379,Europe,Europe
+BEL,HUN,302.94000000000005,Europe,Europe
+BEL,ISL,18.857,Europe,Europe
+BEL,IRQ,221.581,Europe,Asia
+BEL,IRL,3.4829999999999997,Europe,Europe
+BEL,ISR,766.0,Europe,Asia
+BEL,ITA,15052.091,Europe,Europe
+BEL,KOR,227.337,Europe,Asia
+BEL,LBN,0.019,Europe,Asia
+BEL,LTU,11.379,Europe,Europe
+BEL,LUX,1131.294,Europe,Europe
+BEL,MDG,0.167,Europe,Africa
+BEL,MDV,0.263,Europe,Asia
+BEL,NLD,97141.142,Europe,Europe
+BEL,ABW,0.067,Europe,North America
+BEL,NOR,27.418,Europe,Europe
+BEL,POL,416.577,Europe,Europe
+BEL,PRT,0.775,Europe,Europe
+BEL,QAT,0.699,Europe,Asia
+BEL,ROU,13.757,Europe,Europe
+BEL,RWA,0.258,Europe,Africa
+BEL,SEN,0.09,Europe,Africa
+BEL,SYC,0.024,Europe,Africa
+BEL,SGP,3.292,Europe,Asia
+BEL,SVN,0.181,Europe,Europe
+BEL,ZWE,2.332,Europe,Africa
+BEL,ESP,523.678,Europe,Europe
+BEL,SUR,0.016,Europe,South America
+BEL,SWE,202.398,Europe,Europe
+BEL,CHE,209.722,Europe,Europe
+BEL,THA,8.713,Europe,Asia
+BEL,TTO,0.091,Europe,North America
+BEL,ARE,0.012,Europe,Asia
+BEL,TUR,0.9219999999999999,Europe,Asia
+BEL,UKR,0.23,Europe,Europe
+BEL,GBR,225.159,Europe,Europe
+BEL,USA,8.188,Europe,North America
+BIH,HRV,524.6809999999999,Europe,Europe
+BIH,HUN,6.234,Europe,Europe
+BIH,ITA,23.332,Europe,Europe
+BIH,SRB,20.325,Europe,Europe
+BIH,ARE,3.511,Europe,Asia
+BIH,TUR,4181.212,Europe,Asia
+BRA,AUT,0.006,South America,Europe
+BRA,BHS,0.057,South America,North America
+BRA,BOL,57.067,South America,South America
+BRA,CAN,0.005,South America,North America
+BRA,CYP,0.085,South America,Asia
+BRA,FRA,0.536,South America,Europe
+BRA,DEU,80.754,South America,Europe
+BRA,IDN,53410.305,South America,Asia
+BRA,LBR,0.05,South America,Africa
+BRA,MDG,0.094,South America,Africa
+BRA,MLT,0.23,South America,Europe
+BRA,MHL,0.189,South America,Oceania
+BRA,PRY,182.602,South America,South America
+BRA,PHL,36662.814,South America,Asia
+BRA,POL,0.148,South America,Europe
+BRA,SGP,0.066,South America,Asia
+BRA,VNM,26369.873,South America,Asia
+BRA,ESP,0.165,South America,Europe
+BGR,ALB,19.893,Europe,Europe
+BGR,AUT,10.151,Europe,Europe
+BGR,BGD,11101.517,Europe,Asia
+BGR,BEL,1499.083,Europe,Europe
+BGR,CYP,5519.69,Europe,Asia
+BGR,DNK,10.488000000000001,Europe,Europe
+BGR,ETH,7041.953,Europe,Africa
+BGR,FRA,11711.347000000002,Europe,Europe
+BGR,GEO,0.481,Europe,Asia
+BGR,DEU,5506.0289999999995,Europe,Europe
+BGR,GRC,90278.20000000001,Europe,Europe
+BGR,HUN,79.506,Europe,Europe
+BGR,IDN,36249.856,Europe,Asia
+BGR,IRN,37.047,Europe,Asia
+BGR,IRL,20160.456,Europe,Europe
+BGR,ISR,22520.474,Europe,Asia
+BGR,ITA,39497.589,Europe,Europe
+BGR,JPN,310.583,Europe,Asia
+BGR,JOR,724.113,Europe,Asia
+BGR,KOR,38125.224,Europe,Asia
+BGR,LBN,43388.156,Europe,Asia
+BGR,LBY,38832.331,Europe,Africa
+BGR,LTU,2.131,Europe,Europe
+BGR,MYS,570.0740000000001,Europe,Asia
+BGR,MDA,5.036,Europe,Europe
+BGR,MAR,3011.203,Europe,Africa
+BGR,NLD,38514.057,Europe,Europe
+BGR,PHL,72274.805,Europe,Asia
+BGR,PRT,33872.258,Europe,Europe
+BGR,ROU,68457.07400000001,Europe,Europe
+BGR,RUS,2.305,Europe,Asia
+BGR,SRB,7079.460999999999,Europe,Europe
+BGR,VNM,5700.625,Europe,Asia
+BGR,SVN,17.518,Europe,Europe
+BGR,ESP,192425.587,Europe,Europe
+BGR,SDN,16529.303,Europe,Africa
+BGR,CHE,1127.541,Europe,Europe
+BGR,SYR,17121.165,Europe,Asia
+BGR,THA,11754.101,Europe,Asia
+BGR,TUN,14265.244,Europe,Africa
+BGR,TUR,19960.924,Europe,Asia
+BGR,UKR,26.75,Europe,Europe
+BGR,MKD,1079.7330000000002,Europe,Europe
+BGR,EGY,9002.274,Europe,Africa
+BGR,GBR,18681.988,Europe,Europe
+BGR,YEM,5474.886,Europe,Asia
+MMR,SGP,152.901,Asia,Asia
+BDI,COD,0.469,Africa,Africa
+BLR,ARM,41.148,Europe,Asia
+BLR,KAZ,10.199,Europe,Asia
+BLR,RUS,142.699,Europe,Asia
+CAN,DZA,262257.912,North America,Africa
+CAN,AUS,259318.316,North America,Oceania
+CAN,AUT,8.456,North America,Europe
+CAN,BGD,306055.627,North America,Asia
+CAN,BEL,16547.826,North America,Europe
+CAN,BRA,25990.542,North America,South America
+CAN,VGB,24.919,North America,North America
+CAN,MMR,15907.557,North America,Asia
+CAN,BDI,1260.977,North America,Africa
+CAN,CMR,30289.316000000003,North America,Africa
+CAN,LKA,89125.2,North America,Asia
+CAN,CHL,66921.729,North America,South America
+CAN,CHN,769828.092,North America,Asia
+CAN,COL,296361.99600000004,North America,South America
+CAN,COM,1179.384,North America,Africa
+CAN,CRI,36681.19,North America,North America
+CAN,CUB,30824.784,North America,North America
+CAN,CZE,26.311,North America,Europe
+CAN,DNK,103.256,North America,Europe
+CAN,DOM,65853.612,North America,North America
+CAN,ECU,173553.77,North America,South America
+CAN,FRA,258.291,North America,Europe
+CAN,DEU,1627.632,North America,Europe
+CAN,GHA,110052.59300000001,North America,Africa
+CAN,GTM,4261.131,North America,North America
+CAN,HTI,14398.771,North America,North America
+CAN,HND,3620.831,North America,North America
+CAN,HKG,4.989,North America,Asia
+CAN,ISL,1.866,North America,Europe
+CAN,IDN,558113.928,North America,Asia
+CAN,IRQ,12772.025,North America,Asia
+CAN,ISR,99.568,North America,Asia
+CAN,ITA,257675.21899999998,North America,Europe
+CAN,CIV,5379.955,North America,Africa
+CAN,JPN,458405.245,North America,Asia
+CAN,KEN,34613.171,North America,Africa
+CAN,KOR,105277.469,North America,Asia
+CAN,KWT,19037.697,North America,Asia
+CAN,LBN,7861.129,North America,Asia
+CAN,LBY,8522.113,North America,Africa
+CAN,LUX,0.062,North America,Europe
+CAN,MWI,13412.193,North America,Africa
+CAN,MYS,55175.887,North America,Asia
+CAN,MEX,161347.74599999998,North America,North America
+CAN,MAR,197129.422,North America,Africa
+CAN,MOZ,29184.1,North America,Africa
+CAN,OMN,13805.455,North America,Asia
+CAN,NAM,3884.033,North America,Africa
+CAN,NLD,616.733,North America,Europe
+CAN,NZL,2934.153,North America,Oceania
+CAN,NIC,2077.794,North America,North America
+CAN,NGA,186447.313,North America,Africa
+CAN,PAN,2078.444,North America,North America
+CAN,PER,273291.46,North America,South America
+CAN,PHL,470.325,North America,Asia
+CAN,PRT,4017.618,North America,Europe
+CAN,QAT,11537.134,North America,Asia
+CAN,RWA,4193.062,North America,Africa
+CAN,SEN,5604.137,North America,Africa
+CAN,SGP,4937.5689999999995,North America,Asia
+CAN,SVK,1.053,North America,Europe
+CAN,VNM,93892.289,North America,Asia
+CAN,SVN,8.102,North America,Europe
+CAN,ZAF,13521.2,North America,Africa
+CAN,ZWE,5182.256,North America,Africa
+CAN,ESP,19604.712,North America,Europe
+CAN,SWZ,720.334,North America,Africa
+CAN,SWE,0.289,North America,Europe
+CAN,CHE,5983.046,North America,Europe
+CAN,THA,76091.481,North America,Asia
+CAN,TGO,9302.374,North America,Africa
+CAN,ARE,89339.359,North America,Asia
+CAN,TUN,44916.872,North America,Africa
+CAN,TUR,155179.184,North America,Asia
+CAN,UGA,3691.941,North America,Africa
+CAN,MKD,0.09,North America,Europe
+CAN,EGY,14816.531,North America,Africa
+CAN,GBR,89845.705,North America,Europe
+CAN,TZA,11392.289,North America,Africa
+CAN,USA,409546.425,North America,North America
+CAN,VEN,15895.419000000002,North America,South America
+LKA,FRA,0.126,Asia,Europe
+LKA,SYC,60.873000000000005,Asia,Africa
+LKA,IND,15.584,Asia,Asia
+CHL,AUT,1.521,South America,Europe
+CHL,BOL,3.286,South America,South America
+CHL,CAN,0.627,South America,North America
+CHL,CZE,0.732,South America,Europe
+CHL,DEU,0.381,South America,Europe
+CHL,NLD,0.526,South America,Europe
+CHN,AUS,4.239,Asia,Oceania
+CHN,AUT,0.303,Asia,Europe
+CHN,BEL,15.92,Asia,Europe
+CHN,BLR,0.384,Asia,Europe
+CHN,CZE,6.78,Asia,Europe
+CHN,ETH,3162.216,Asia,Africa
+CHN,FIN,3.903,Asia,Europe
+CHN,FRA,79.612,Asia,Europe
+CHN,DEU,38.569,Asia,Europe
+CHN,IRN,0.007,Asia,Asia
+CHN,KAZ,15.352,Asia,Asia
+CHN,KOR,122.835,Asia,Asia
+CHN,LBN,462.52,Asia,Asia
+CHN,MYS,4.873,Asia,Asia
+CHN,NZL,0.041,Asia,Oceania
+CHN,NOR,15.072,Asia,Europe
+CHN,PHL,1.744,Asia,Asia
+CHN,POL,0.412,Asia,Europe
+CHN,SEN,1.174,Asia,Africa
+CHN,SRB,0.402,Asia,Europe
+CHN,SGP,1.819,Asia,Asia
+CHN,SVK,0.456,Asia,Europe
+CHN,VNM,70.948,Asia,Asia
+CHN,ESP,29.391,Asia,Europe
+CHN,SWE,46.690999999999995,Asia,Europe
+CHN,THA,0.035,Asia,Asia
+CHN,USA,2.232,Asia,North America
+CHN,UZB,109.272,Asia,Asia
+COL,CUW,3.387,South America,North America
+COL,GBR,0.059,South America,Europe
+COD,BEL,0.057,Africa,Europe
+HRV,ALB,641.566,Europe,Europe
+HRV,AUT,5292.7609999999995,Europe,Europe
+HRV,BIH,14242.880000000001,Europe,Europe
+HRV,BGR,51.429,Europe,Europe
+HRV,FRA,55.830999999999996,Europe,Europe
+HRV,DEU,496.791,Europe,Europe
+HRV,HUN,591.8,Europe,Europe
+HRV,IRQ,0.001,Europe,Asia
+HRV,ITA,27804.313000000002,Europe,Europe
+HRV,MNE,6.914000000000001,Europe,Europe
+HRV,NLD,0.875,Europe,Europe
+HRV,ROU,292.512,Europe,Europe
+HRV,SRB,9345.542,Europe,Europe
+HRV,SVK,19.956,Europe,Europe
+HRV,SVN,6058.975,Europe,Europe
+HRV,TUR,4.359,Europe,Asia
+HRV,MKD,1226.835,Europe,Europe
+CYP,GRC,81.762,Asia,Europe
+CYP,ITA,2.097,Asia,Europe
+CYP,NLD,0.35000000000000003,Asia,Europe
+CYP,RUS,59.826,Asia,Asia
+CYP,GBR,3.426,Asia,Europe
+CYP,USA,4.851,Asia,North America
+CZE,AUT,52182.701,Europe,Europe
+CZE,BEL,35.161,Europe,Europe
+CZE,BGR,40.872,Europe,Europe
+CZE,BLR,82.348,Europe,Europe
+CZE,CAN,0.067,Europe,North America
+CZE,CHL,0.004,Europe,South America
+CZE,HRV,16.584,Europe,Europe
+CZE,DNK,2.308,Europe,Europe
+CZE,EST,304.674,Europe,Europe
+CZE,FIN,1.223,Europe,Europe
+CZE,FRA,583.476,Europe,Europe
+CZE,DEU,272336.694,Europe,Europe
+CZE,HUN,53.907,Europe,Europe
+CZE,ITA,19417.015,Europe,Europe
+CZE,KAZ,2.172,Europe,Asia
+CZE,KOR,0.011,Europe,Asia
+CZE,KWT,4.631,Europe,Asia
+CZE,LVA,0.044,Europe,Europe
+CZE,LTU,22.921999999999997,Europe,Europe
+CZE,MDA,19.014,Europe,Europe
+CZE,NLD,1990.215,Europe,Europe
+CZE,POL,41922.95,Europe,Europe
+CZE,ROU,898.286,Europe,Europe
+CZE,RUS,313.53,Europe,Asia
+CZE,SRB,3.943,Europe,Europe
+CZE,SVK,3436.0080000000003,Europe,Europe
+CZE,SVN,301.619,Europe,Europe
+CZE,ZAF,21964.743,Europe,Africa
+CZE,ESP,31.845,Europe,Europe
+CZE,CHE,661.935,Europe,Europe
+CZE,UKR,271.603,Europe,Europe
+CZE,MKD,0.276,Europe,Europe
+CZE,GBR,131.722,Europe,Europe
+DNK,AUT,17.435,Europe,Europe
+DNK,BEL,1871.902,Europe,Europe
+DNK,CYP,1.329,Europe,Asia
+DNK,CZE,0.074,Europe,Europe
+DNK,EST,12.053,Europe,Europe
+DNK,FIN,2069.7219999999998,Europe,Europe
+DNK,FRA,5606.613,Europe,Europe
+DNK,DEU,6950.448,Europe,Europe
+DNK,GRL,0.502,Europe,North America
+DNK,ISL,2403.608,Europe,Europe
+DNK,IRL,4960.006,Europe,Europe
+DNK,ITA,55.57,Europe,Europe
+DNK,LVA,79.32900000000001,Europe,Europe
+DNK,LTU,10040.498,Europe,Europe
+DNK,LUX,0.104,Europe,Europe
+DNK,NLD,14328.492,Europe,Europe
+DNK,NOR,1416.9740000000002,Europe,Europe
+DNK,POL,3258.914,Europe,Europe
+DNK,PRT,2407.53,Europe,Europe
+DNK,SVK,21.593,Europe,Europe
+DNK,ESP,65553.526,Europe,Europe
+DNK,SWE,18465.005,Europe,Europe
+DNK,GBR,5350.887,Europe,Europe
+SLV,CRI,76.749,North America,North America
+SLV,GTM,120.008,North America,North America
+SLV,NIC,238.28699999999998,North America,North America
+EST,DZA,5891.513,Europe,Africa
+EST,BEL,482.72,Europe,Europe
+EST,DNK,946.671,Europe,Europe
+EST,FIN,20.357,Europe,Europe
+EST,DEU,222.695,Europe,Europe
+EST,IRL,247.855,Europe,Europe
+EST,ITA,1741.737,Europe,Europe
+EST,LVA,4015.192,Europe,Europe
+EST,LTU,148.012,Europe,Europe
+EST,NLD,542.708,Europe,Europe
+EST,NOR,34.438,Europe,Europe
+EST,POL,1469.16,Europe,Europe
+EST,PRT,1275.334,Europe,Europe
+EST,ROU,0.053,Europe,Europe
+EST,SAU,62396.018,Europe,Asia
+EST,ESP,13914.092,Europe,Europe
+EST,SDN,14409.809,Europe,Africa
+EST,SWE,5977.137,Europe,Europe
+EST,TUR,13815.435,Europe,Asia
+FJI,KIR,0.031,Oceania,Oceania
+FJI,VUT,0.028,Oceania,Oceania
+FJI,TON,0.007,Oceania,Oceania
+FJI,TUV,0.296,Oceania,Oceania
+FIN,BEL,3.144,Europe,Europe
+FIN,CHL,0.108,Europe,South America
+FIN,DNK,1.606,Europe,Europe
+FIN,EST,1.186,Europe,Europe
+FIN,FRA,0.741,Europe,Europe
+FIN,DEU,1207.3329999999999,Europe,Europe
+FIN,ISL,5.178,Europe,Europe
+FIN,ITA,1537.5620000000001,Europe,Europe
+FIN,LVA,1.222,Europe,Europe
+FIN,LTU,878.601,Europe,Europe
+FIN,LUX,0.114,Europe,Europe
+FIN,MAR,6160.043,Europe,Africa
+FIN,NLD,3165.058,Europe,Europe
+FIN,NZL,0.005,Europe,Oceania
+FIN,NOR,243.86800000000002,Europe,Europe
+FIN,PRT,1076.709,Europe,Europe
+FIN,RUS,14.412,Europe,Asia
+FIN,ESP,117.129,Europe,Europe
+FIN,SWE,1945.308,Europe,Europe
+FIN,GBR,0.422,Europe,Europe
+FRA,ALB,606.132,Europe,Europe
+FRA,DZA,925082.283,Europe,Africa
+FRA,AGO,76520.266,Europe,Africa
+FRA,AZE,20.97,Europe,Asia
+FRA,ARG,6.269,Europe,South America
+FRA,AUT,250.83100000000002,Europe,Europe
+FRA,BEL,460241.427,Europe,Europe
+FRA,BIH,5.514,Europe,Europe
+FRA,BRA,1718.37,Europe,South America
+FRA,BGR,532.9,Europe,Europe
+FRA,BLR,117.628,Europe,Europe
+FRA,CMR,58276.96,Europe,Africa
+FRA,CAN,31.272000000000002,Europe,North America
+FRA,CPV,3525.969,Europe,Africa
+FRA,CAF,0.008,Europe,Africa
+FRA,CHL,2.879,Europe,South America
+FRA,CHN,133298.234,Europe,Asia
+FRA,COG,9631.673,Europe,Africa
+FRA,COD,5375.564,Europe,Africa
+FRA,HRV,52.532,Europe,Europe
+FRA,CUB,92577.81999999999,Europe,North America
+FRA,CYP,3204.466,Europe,Asia
+FRA,CZE,750.029,Europe,Europe
+FRA,BEN,0.028,Europe,Africa
+FRA,DNK,794.893,Europe,Europe
+FRA,EST,77.116,Europe,Europe
+FRA,FIN,2148.1299999999997,Europe,Europe
+FRA,PYF,0.637,Europe,Oceania
+FRA,GAB,20249.689,Europe,Africa
+FRA,GEO,0.10300000000000001,Europe,Asia
+FRA,GMB,8077.489,Europe,Africa
+FRA,DEU,92366.48199999999,Europe,Europe
+FRA,GHA,21470.415999999997,Europe,Africa
+FRA,GRC,24808.094,Europe,Europe
+FRA,GIN,2550.002,Europe,Africa
+FRA,HKG,0.164,Europe,Asia
+FRA,HUN,1659.8,Europe,Europe
+FRA,IRN,0.08,Europe,Asia
+FRA,IRQ,130.479,Europe,Asia
+FRA,IRL,14181.098999999998,Europe,Europe
+FRA,ITA,321576.735,Europe,Europe
+FRA,CIV,128620.951,Europe,Africa
+FRA,JPN,2703.8120000000004,Europe,Asia
+FRA,KEN,0.001,Europe,Africa
+FRA,KOR,691.869,Europe,Asia
+FRA,LBN,2.299,Europe,Asia
+FRA,LVA,3482.009,Europe,Europe
+FRA,LBY,837.866,Europe,Africa
+FRA,LTU,136.008,Europe,Europe
+FRA,LUX,19062.5,Europe,Europe
+FRA,MDG,2.881,Europe,Africa
+FRA,MLI,41480.062,Europe,Africa
+FRA,MLT,1225.604,Europe,Europe
+FRA,MRT,61448.101,Europe,Africa
+FRA,MUS,28425.220999999998,Europe,Africa
+FRA,MEX,0.04,Europe,North America
+FRA,MDA,9.847,Europe,Europe
+FRA,MAR,366372.243,Europe,Africa
+FRA,NLD,450254.979,Europe,Europe
+FRA,CUW,0.06,Europe,North America
+FRA,SXM,0.044,Europe,North America
+FRA,NCL,1608.654,Europe,Oceania
+FRA,NZL,1.514,Europe,Oceania
+FRA,NOR,2446.911,Europe,Europe
+FRA,MHL,4457.153,Europe,Oceania
+FRA,POL,2476.6929999999998,Europe,Europe
+FRA,PRT,130542.36,Europe,Europe
+FRA,ROU,634.8230000000001,Europe,Europe
+FRA,RUS,26.68,Europe,Asia
+FRA,LCA,396.284,Europe,North America
+FRA,SAU,1.147,Europe,Asia
+FRA,SEN,58987.425,Europe,Africa
+FRA,SRB,505.70900000000006,Europe,Europe
+FRA,IND,0.002,Europe,Asia
+FRA,SGP,89.94800000000001,Europe,Asia
+FRA,SVK,1263.6599999999999,Europe,Europe
+FRA,VNM,214.285,Europe,Asia
+FRA,SVN,29.192999999999998,Europe,Europe
+FRA,ZAF,5883.93,Europe,Africa
+FRA,ESP,318094.277,Europe,Europe
+FRA,SWE,3441.683,Europe,Europe
+FRA,CHE,41278.671,Europe,Europe
+FRA,THA,328.49,Europe,Asia
+FRA,TGO,4229.384,Europe,Africa
+FRA,ARE,21.522,Europe,Asia
+FRA,TUN,64227.683000000005,Europe,Africa
+FRA,TUR,8659.91,Europe,Asia
+FRA,UKR,36.822,Europe,Europe
+FRA,MKD,18.276,Europe,Europe
+FRA,EGY,169611.22,Europe,Africa
+FRA,GBR,45409.095,Europe,Europe
+FRA,USA,457.25100000000003,Europe,North America
+FRA,BFA,11610.554,Europe,Africa
+FRA,URY,9.41,Europe,South America
+FRA,YEM,59014.299,Europe,Asia
+GAB,ESP,5.18,Africa,Europe
+GEO,AZE,207.95600000000002,Asia,Asia
+GEO,AUT,0.164,Asia,Europe
+GEO,ARM,601.824,Asia,Asia
+PSE,DEU,1.055,Asia,Europe
+PSE,GBR,17.403,Asia,Europe
+PSE,USA,4.754,Asia,North America
+DEU,DZA,7185.552,Europe,Africa
+DEU,AUT,9822.831,Europe,Europe
+DEU,BEL,139285.69,Europe,Europe
+DEU,BIH,6.021000000000001,Europe,Europe
+DEU,BRN,1.713,Europe,Asia
+DEU,BGR,26.867,Europe,Europe
+DEU,BDI,6234.557,Europe,Africa
+DEU,BLR,774.281,Europe,Europe
+DEU,CAN,7.031999999999999,Europe,North America
+DEU,CHL,7.32,Europe,South America
+DEU,CHN,0.725,Europe,Asia
+DEU,COG,4359.73,Europe,Africa
+DEU,HRV,52.634,Europe,Europe
+DEU,CUB,30645.98,Europe,North America
+DEU,CZE,722.783,Europe,Europe
+DEU,DNK,25216.769999999997,Europe,Europe
+DEU,DOM,21.308,Europe,North America
+DEU,EST,5.979,Europe,Europe
+DEU,FIN,3.475,Europe,Europe
+DEU,FRA,28304.69,Europe,Europe
+DEU,GEO,12.164,Europe,Asia
+DEU,GRC,4230.186,Europe,Europe
+DEU,GIN,48831.184,Europe,Africa
+DEU,HUN,484.371,Europe,Europe
+DEU,ISL,2603.084,Europe,Europe
+DEU,IRN,15122.088,Europe,Asia
+DEU,IRL,19.585,Europe,Europe
+DEU,ISR,8321.85,Europe,Asia
+DEU,ITA,85237.194,Europe,Europe
+DEU,JPN,101.317,Europe,Asia
+DEU,KAZ,2.524,Europe,Asia
+DEU,KEN,29074.972,Europe,Africa
+DEU,KOR,37.322,Europe,Asia
+DEU,KWT,29.25,Europe,Asia
+DEU,LSO,1052.351,Europe,Africa
+DEU,LVA,345.658,Europe,Europe
+DEU,LBY,5910.293,Europe,Africa
+DEU,LTU,626.725,Europe,Europe
+DEU,LUX,6051.99,Europe,Europe
+DEU,MWI,13347.628,Europe,Africa
+DEU,MDV,0.08,Europe,Asia
+DEU,MLT,0.013,Europe,Europe
+DEU,MUS,12378.501,Europe,Africa
+DEU,MDA,1.131,Europe,Europe
+DEU,MAR,19405.521,Europe,Africa
+DEU,MOZ,15276.284,Europe,Africa
+DEU,NAM,1.433,Europe,Africa
+DEU,NLD,213206.96899999998,Europe,Europe
+DEU,NOR,30698.131,Europe,Europe
+DEU,POL,8680.314,Europe,Europe
+DEU,PRT,7196.786,Europe,Europe
+DEU,ROU,354.512,Europe,Europe
+DEU,RUS,134.526,Europe,Asia
+DEU,RWA,5450.507,Europe,Africa
+DEU,SAU,139250.15,Europe,Asia
+DEU,SEN,0.076,Europe,Africa
+DEU,SRB,7.4559999999999995,Europe,Europe
+DEU,SGP,6.933,Europe,Asia
+DEU,SVK,145.639,Europe,Europe
+DEU,VNM,8.541,Europe,Asia
+DEU,SVN,126.43100000000001,Europe,Europe
+DEU,ZAF,134454.179,Europe,Africa
+DEU,ZWE,9361.968,Europe,Africa
+DEU,ESP,7360.608,Europe,Europe
+DEU,SDN,41647.772,Europe,Africa
+DEU,SUR,3777.247,Europe,South America
+DEU,SWZ,1410.93,Europe,Africa
+DEU,SWE,11380.009,Europe,Europe
+DEU,CHE,25867.08,Europe,Europe
+DEU,THA,43.692,Europe,Asia
+DEU,ARE,13221.382000000001,Europe,Asia
+DEU,UGA,8991.449,Europe,Africa
+DEU,UKR,843.532,Europe,Europe
+DEU,MKD,0.431,Europe,Europe
+DEU,GBR,49654.46000000001,Europe,Europe
+DEU,TZA,20867.474,Europe,Africa
+DEU,USA,15.364,Europe,North America
+GHA,BEL,1.703,Africa,Europe
+GHA,DEU,0.006,Africa,Europe
+GHA,ITA,0.017,Africa,Europe
+GHA,MOZ,0.004,Africa,Africa
+GHA,QAT,0.015,Africa,Asia
+GHA,GBR,0.012,Africa,Europe
+GHA,USA,0.054,Africa,North America
+GRC,ALB,189.756,Europe,Europe
+GRC,BEL,0.952,Europe,Europe
+GRC,BGR,25.25,Europe,Europe
+GRC,CAN,0.574,Europe,North America
+GRC,CYP,1585.0339999999999,Europe,Asia
+GRC,GEO,11.071,Europe,Asia
+GRC,DEU,4.197,Europe,Europe
+GRC,HUN,0.002,Europe,Europe
+GRC,ISR,26.147,Europe,Asia
+GRC,ITA,46185.990000000005,Europe,Europe
+GRC,MLT,0.057,Europe,Europe
+GRC,MAR,1.081,Europe,Africa
+GRC,NLD,1199.583,Europe,Europe
+GRC,NZL,0.077,Europe,Oceania
+GRC,ROU,68.495,Europe,Europe
+GRC,SRB,1.498,Europe,Europe
+GRC,ZAF,0.391,Europe,Africa
+GRC,SWE,0.012,Europe,Europe
+GRC,TUN,17355.167,Europe,Africa
+GRC,TUR,13984.497,Europe,Asia
+GRC,MKD,129.08599999999998,Europe,Europe
+GRC,GBR,0.042,Europe,Europe
+GTM,BLZ,84.22,North America,North America
+GTM,SLV,0.101,North America,North America
+GTM,HND,0.046,North America,North America
+GTM,USA,0.4,North America,North America
+GIN,BEL,1.125,Africa,Europe
+HND,SLV,0.075,North America,North America
+HKG,AUT,2.564,Asia,Europe
+HKG,CHN,2.621,Asia,Asia
+HKG,MAC,0.057,Asia,Asia
+HUN,ALB,40.24,Europe,Europe
+HUN,AUT,77472.45300000001,Europe,Europe
+HUN,BIH,37230.926999999996,Europe,Europe
+HUN,BGR,3516.46,Europe,Europe
+HUN,CHN,61.679,Europe,Asia
+HUN,HRV,23633.959,Europe,Europe
+HUN,CYP,834.813,Europe,Asia
+HUN,CZE,301.936,Europe,Europe
+HUN,DNK,88.438,Europe,Europe
+HUN,FRA,1846.565,Europe,Europe
+HUN,DEU,28616.5,Europe,Europe
+HUN,GRC,16625.703,Europe,Europe
+HUN,IRL,34.14,Europe,Europe
+HUN,ISR,39303.532,Europe,Asia
+HUN,ITA,238204.99,Europe,Europe
+HUN,LTU,10.0,Europe,Europe
+HUN,MLT,1647.199,Europe,Europe
+HUN,MDA,2.397,Europe,Europe
+HUN,MNE,4.833,Europe,Europe
+HUN,NLD,14079.57,Europe,Europe
+HUN,NOR,32.238,Europe,Europe
+HUN,POL,2490.859,Europe,Europe
+HUN,ROU,87914.209,Europe,Europe
+HUN,SRB,3398.4469999999997,Europe,Europe
+HUN,SVK,766.406,Europe,Europe
+HUN,SVN,22298.748,Europe,Europe
+HUN,ESP,321.948,Europe,Europe
+HUN,CHE,724.52,Europe,Europe
+HUN,TUR,3897.261,Europe,Asia
+HUN,UKR,0.815,Europe,Europe
+HUN,MKD,1280.818,Europe,Europe
+HUN,GBR,2.77,Europe,Europe
+IDN,AUT,0.96,Asia,Europe
+IDN,DEU,0.096,Asia,Europe
+IDN,THA,0.014,Asia,Asia
+IRN,AUT,0.5,Asia,Europe
+IRN,DEU,1.018,Asia,Europe
+IRN,NZL,0.191,Asia,Oceania
+IRN,NOR,0.861,Asia,Europe
+IRN,ARE,0.022,Asia,Asia
+IRN,GBR,1.22,Asia,Europe
+IRQ,TUR,460.193,Asia,Asia
+IRL,DNK,0.07,Europe,Europe
+IRL,FIN,0.383,Europe,Europe
+IRL,ISL,0.117,Europe,Europe
+IRL,NLD,27.434,Europe,Europe
+IRL,ESP,1446.517,Europe,Europe
+IRL,SWE,1.949,Europe,Europe
+IRL,GBR,13476.841,Europe,Europe
+ISR,AUT,0.062,Asia,Europe
+ISR,CAN,0.001,Asia,North America
+ISR,CHN,2.0,Asia,Asia
+ISR,DNK,401.0,Asia,Europe
+ISR,FRA,0.383,Asia,Europe
+ISR,DEU,8.0,Asia,Europe
+ISR,JOR,250.0,Asia,Asia
+ISR,MEX,1.0,Asia,North America
+ISR,ESP,0.056,Asia,Europe
+ISR,CHE,1.0,Asia,Europe
+ISR,TUR,80.0,Asia,Asia
+ISR,GBR,8.0,Asia,Europe
+ISR,USA,15.278,Asia,North America
+ITA,ALB,1113.439,Europe,Europe
+ITA,AZE,0.459,Europe,Asia
+ITA,ARG,17.383,Europe,South America
+ITA,AUS,2.837,Europe,Oceania
+ITA,AUT,222.297,Europe,Europe
+ITA,BEL,243.337,Europe,Europe
+ITA,BIH,0.152,Europe,Europe
+ITA,BGR,33.29,Europe,Europe
+ITA,CAN,16.587,Europe,North America
+ITA,CHL,0.559,Europe,South America
+ITA,CHN,0.108,Europe,Asia
+ITA,HRV,166.62900000000002,Europe,Europe
+ITA,CYP,107.196,Europe,Asia
+ITA,CZE,19.725,Europe,Europe
+ITA,DNK,70.604,Europe,Europe
+ITA,EST,0.398,Europe,Europe
+ITA,FIN,32.62,Europe,Europe
+ITA,FRA,13472.741,Europe,Europe
+ITA,DEU,5053.360000000001,Europe,Europe
+ITA,GRC,1686.418,Europe,Europe
+ITA,HKG,1.905,Europe,Asia
+ITA,HUN,128.234,Europe,Europe
+ITA,IRQ,16.786,Europe,Asia
+ITA,IRL,2.314,Europe,Europe
+ITA,ISR,1.841,Europe,Asia
+ITA,JPN,32.157,Europe,Asia
+ITA,KAZ,31.403,Europe,Asia
+ITA,JOR,0.743,Europe,Asia
+ITA,KOR,0.027,Europe,Asia
+ITA,LBN,52.512,Europe,Asia
+ITA,LTU,3.857,Europe,Europe
+ITA,LUX,44.782,Europe,Europe
+ITA,MWI,0.082,Europe,Africa
+ITA,MLT,1355.573,Europe,Europe
+ITA,MAR,188.785,Europe,Africa
+ITA,NLD,116.738,Europe,Europe
+ITA,NOR,13.580000000000002,Europe,Europe
+ITA,PER,6.548,Europe,South America
+ITA,POL,4.683,Europe,Europe
+ITA,PRT,445.23699999999997,Europe,Europe
+ITA,ROU,900.5199999999999,Europe,Europe
+ITA,RUS,27.065,Europe,Asia
+ITA,SEN,5.761,Europe,Africa
+ITA,SRB,58.696,Europe,Europe
+ITA,SGP,0.154,Europe,Asia
+ITA,SVK,66.99100000000001,Europe,Europe
+ITA,SVN,207.712,Europe,Europe
+ITA,ESP,412.74,Europe,Europe
+ITA,SWE,94.589,Europe,Europe
+ITA,CHE,3626.471,Europe,Europe
+ITA,THA,9.718,Europe,Asia
+ITA,ARE,4.763999999999999,Europe,Asia
+ITA,TUN,1320.7,Europe,Africa
+ITA,TUR,123.703,Europe,Asia
+ITA,GBR,2282.209,Europe,Europe
+ITA,USA,518.864,Europe,North America
+ITA,ZMB,0.127,Europe,Africa
+CIV,BEL,0.531,Africa,Europe
+CIV,CAN,0.001,Africa,North America
+CIV,GHA,1.368,Africa,Africa
+CIV,NER,2.731,Africa,Africa
+CIV,BFA,940.285,Africa,Africa
+JPN,KHM,0.8959999999999999,Asia,Asia
+JPN,FRA,0.077,Asia,Europe
+JPN,IDN,0.201,Asia,Asia
+JPN,KOR,0.6,Asia,Asia
+JPN,NLD,6.435,Asia,Europe
+JPN,PHL,0.385,Asia,Asia
+JPN,SGP,353.562,Asia,Asia
+JPN,CHE,0.15,Asia,Europe
+KAZ,AFG,56971.166,Asia,Asia
+KAZ,AZE,45722.156,Asia,Asia
+KAZ,BEL,2548.398,Asia,Europe
+KAZ,BLR,470.552,Asia,Europe
+KAZ,CHN,104253.94,Asia,Asia
+KAZ,DNK,464.751,Asia,Europe
+KAZ,FIN,1110.135,Asia,Europe
+KAZ,FRA,7.637,Asia,Europe
+KAZ,GEO,12039.608,Asia,Asia
+KAZ,DEU,152.371,Asia,Europe
+KAZ,GRC,4068.265,Asia,Europe
+KAZ,IRN,1132.467,Asia,Asia
+KAZ,ITA,30461.146,Asia,Europe
+KAZ,KGZ,27709.131,Asia,Asia
+KAZ,LTU,41.405,Asia,Europe
+KAZ,MYS,272.324,Asia,Asia
+KAZ,NLD,2409.395,Asia,Europe
+KAZ,NOR,1985.549,Asia,Europe
+KAZ,POL,1282.5249999999999,Asia,Europe
+KAZ,RUS,43318.403999999995,Asia,Asia
+KAZ,VNM,2908.484,Asia,Asia
+KAZ,SWE,3166.151,Asia,Europe
+KAZ,TJK,197798.408,Asia,Asia
+KAZ,TUN,5015.497,Asia,Africa
+KAZ,TUR,43547.227,Asia,Asia
+KAZ,TKM,47258.632,Asia,Asia
+KAZ,GBR,8565.964,Asia,Europe
+KAZ,UZB,372444.295,Asia,Asia
+JOR,AUS,20.579,Asia,Oceania
+JOR,DNK,0.022,Asia,Europe
+JOR,DEU,13.196,Asia,Europe
+JOR,IRQ,24.225,Asia,Asia
+JOR,ISR,93.277,Asia,Asia
+JOR,NLD,1.579,Asia,Europe
+JOR,ROU,3.206,Asia,Europe
+JOR,CHE,1.532,Asia,Europe
+JOR,TUR,0.144,Asia,Asia
+KEN,CAN,0.1,Africa,North America
+KEN,FRA,1.066,Africa,Europe
+KEN,ISR,2.949,Africa,Asia
+KEN,ITA,0.007,Africa,Europe
+KEN,NLD,0.083,Africa,Europe
+KEN,RWA,551.52,Africa,Africa
+KEN,SYC,33.209,Africa,Africa
+KEN,SSD,0.078,Africa,Africa
+KEN,UGA,459.03299999999996,Africa,Africa
+KEN,GBR,0.017,Africa,Europe
+KEN,USA,0.1,Africa,North America
+KOR,CHN,1.127,Asia,Asia
+KOR,IDN,128.954,Asia,Asia
+KOR,NLD,0.045,Asia,Europe
+KOR,SGP,1.886,Asia,Asia
+KWT,JOR,622.419,Asia,Asia
+KWT,SEN,0.14,Asia,Africa
+KWT,ESP,0.959,Asia,Europe
+KGZ,USA,0.002,Asia,North America
+LAO,CHN,235.497,Asia,Asia
+LAO,ZAF,0.009,Asia,Africa
+LBN,AUS,1.611,Asia,Oceania
+LBN,AUT,0.374,Asia,Europe
+LBN,BEL,0.136,Asia,Europe
+LBN,BRA,34.260000000000005,Asia,South America
+LBN,CAN,0.008,Asia,North America
+LBN,CYP,0.184,Asia,Asia
+LBN,BEN,0.19,Asia,Africa
+LBN,FRA,1.956,Asia,Europe
+LBN,DEU,0.784,Asia,Europe
+LBN,GHA,0.45,Asia,Africa
+LBN,CIV,0.056,Asia,Africa
+LBN,JOR,1952.4759999999999,Asia,Asia
+LBN,SYC,0.087,Asia,Africa
+LBN,ESP,0.134,Asia,Europe
+LBN,SWE,1.71,Asia,Europe
+LBN,CHE,2.2009999999999996,Asia,Europe
+LBN,ARE,0.601,Asia,Asia
+LBN,TUR,777.063,Asia,Asia
+LBN,GBR,34.312,Asia,Europe
+LSO,ZAF,0.311,Africa,Africa
+LVA,DZA,6038.7,Europe,Africa
+LVA,AGO,3180.231,Europe,Africa
+LVA,BHR,6540.61,Europe,Asia
+LVA,BEL,876.682,Europe,Europe
+LVA,BGR,34.402,Europe,Europe
+LVA,BDI,652.514,Europe,Africa
+LVA,COG,5997.259,Europe,Africa
+LVA,COD,6308.239,Europe,Africa
+LVA,DNK,2227.651,Europe,Europe
+LVA,EST,2460.596,Europe,Europe
+LVA,FIN,10249.909,Europe,Europe
+LVA,FRA,1237.008,Europe,Europe
+LVA,DEU,12524.294,Europe,Europe
+LVA,GRC,4.822,Europe,Europe
+LVA,IRL,1718.315,Europe,Europe
+LVA,ITA,0.652,Europe,Europe
+LVA,KEN,32494.857,Europe,Africa
+LVA,LTU,6742.356,Europe,Europe
+LVA,MWI,291.628,Europe,Africa
+LVA,MRT,8342.557,Europe,Africa
+LVA,MOZ,7781.857,Europe,Africa
+LVA,NLD,125.996,Europe,Europe
+LVA,NER,3506.088,Europe,Africa
+LVA,NGA,68152.21,Europe,Africa
+LVA,NOR,1347.867,Europe,Europe
+LVA,MHL,1948.604,Europe,Oceania
+LVA,POL,444.475,Europe,Europe
+LVA,PRT,11395.437,Europe,Europe
+LVA,RWA,647.297,Europe,Africa
+LVA,SAU,98643.045,Europe,Asia
+LVA,ZAF,18394.995,Europe,Africa
+LVA,ZWE,418.001,Europe,Africa
+LVA,ESP,32245.847,Europe,Europe
+LVA,SDN,12736.122,Europe,Africa
+LVA,SWE,6761.586,Europe,Europe
+LVA,TUR,49343.972,Europe,Asia
+LVA,GBR,23197.91,Europe,Europe
+LVA,TZA,7700.045,Europe,Africa
+LTU,AUT,211.214,Europe,Europe
+LTU,BLR,0.032,Europe,Europe
+LTU,CHN,51102.912,Europe,Asia
+LTU,CZE,44.437000000000005,Europe,Europe
+LTU,DNK,2126.324,Europe,Europe
+LTU,EST,348.24,Europe,Europe
+LTU,FIN,1.888,Europe,Europe
+LTU,FRA,6561.223,Europe,Europe
+LTU,DEU,13922.943,Europe,Europe
+LTU,HKG,0.04,Europe,Asia
+LTU,IDN,0.042,Europe,Asia
+LTU,ISR,27544.314,Europe,Asia
+LTU,ITA,14916.478,Europe,Europe
+LTU,KEN,10371.833,Europe,Africa
+LTU,LVA,73666.76199999999,Europe,Europe
+LTU,LBY,6839.138,Europe,Africa
+LTU,LUX,3.18,Europe,Europe
+LTU,MAR,6475.486,Europe,Africa
+LTU,MOZ,1868.474,Europe,Africa
+LTU,NLD,6380.522,Europe,Europe
+LTU,NGA,25663.755,Europe,Africa
+LTU,NOR,3569.157,Europe,Europe
+LTU,POL,3857.43,Europe,Europe
+LTU,PRT,5767.51,Europe,Europe
+LTU,RUS,101.111,Europe,Asia
+LTU,SAU,180796.802,Europe,Asia
+LTU,ZAF,61520.182,Europe,Africa
+LTU,ESP,87107.862,Europe,Europe
+LTU,SDN,47472.075,Europe,Africa
+LTU,SWZ,867.312,Europe,Africa
+LTU,SWE,2680.528,Europe,Europe
+LTU,CHE,1.667,Europe,Europe
+LTU,TUR,62357.615,Europe,Asia
+LTU,GBR,658.075,Europe,Europe
+LUX,BEL,895.641,Europe,Europe
+LUX,DNK,379.204,Europe,Europe
+LUX,FRA,418.32399999999996,Europe,Europe
+LUX,DEU,5604.058,Europe,Europe
+LUX,ITA,16.569000000000003,Europe,Europe
+LUX,LTU,24.998,Europe,Europe
+LUX,NLD,1608.4920000000002,Europe,Europe
+LUX,ESP,941.275,Europe,Europe
+MYS,BRN,32.089,Asia,Asia
+MYS,FIN,0.066,Asia,Europe
+MYS,IDN,0.084,Asia,Asia
+MYS,PHL,305.102,Asia,Asia
+MYS,SGP,1133.145,Asia,Asia
+MYS,THA,64.64,Asia,Asia
+MLT,GRC,5.047,Europe,Europe
+MLT,NLD,0.158,Europe,Europe
+MEX,CAN,0.075,North America,North America
+MEX,CHL,1.09,North America,South America
+MEX,CHN,1.891,North America,Asia
+MEX,FRA,0.989,North America,Europe
+MEX,GTM,9864.163,North America,North America
+MEX,ISR,0.902,North America,Asia
+MEX,ITA,10089.633,North America,Europe
+MEX,MAR,0.109,North America,Africa
+MEX,NLD,0.098,North America,Europe
+MEX,PRY,0.562,North America,South America
+MEX,IND,0.247,North America,Asia
+MEX,ZAF,0.02,North America,Africa
+MEX,ZWE,0.002,North America,Africa
+MEX,ESP,0.9299999999999999,North America,Europe
+MEX,TUN,0.092,North America,Africa
+MEX,TUR,102943.472,North America,Asia
+MEX,USA,8.203,North America,North America
+MEX,URY,0.641,North America,South America
+MEX,ZMB,0.148,North America,Africa
+MDA,AUT,308.474,Europe,Europe
+MDA,BGR,40.632,Europe,Europe
+MDA,MMR,3899.171,Europe,Asia
+MDA,KHM,163.651,Europe,Asia
+MDA,CYP,975.558,Europe,Asia
+MDA,DNK,1113.928,Europe,Europe
+MDA,GRC,15550.313,Europe,Europe
+MDA,IDN,28280.607,Europe,Asia
+MDA,ITA,41619.609,Europe,Europe
+MDA,MYS,9504.299,Europe,Asia
+MDA,NLD,484.668,Europe,Europe
+MDA,PHL,262.123,Europe,Asia
+MDA,ROU,2454.152,Europe,Europe
+MDA,RUS,4.44,Europe,Asia
+MDA,THA,2542.135,Europe,Asia
+MDA,ARE,133.922,Europe,Asia
+MDA,TUN,3135.3070000000002,Europe,Africa
+MDA,TUR,5640.49,Europe,Asia
+MNE,SRB,1.825,Europe,Europe
+MAR,BEL,0.071,Africa,Europe
+MAR,FRA,0.794,Africa,Europe
+MAR,GHA,0.26,Africa,Africa
+MAR,ESP,50.902,Africa,Europe
+MAR,ARE,22.006,Africa,Asia
+MAR,ZMB,0.33,Africa,Africa
+NAM,LUX,0.548,Africa,Europe
+NAM,ZAF,0.028999999999999998,Africa,Africa
+NPL,KOR,0.004,Asia,Asia
+NPL,GBR,3.506,Asia,Europe
+NLD,AUT,7.111999999999999,Europe,Europe
+NLD,BEL,30964.425000000003,Europe,Europe
+NLD,BIH,0.152,Europe,Europe
+NLD,BRN,5.238,Europe,Asia
+NLD,BGR,2.0719999999999996,Europe,Europe
+NLD,CAN,0.624,Europe,North America
+NLD,CHN,20.904,Europe,Asia
+NLD,HRV,1.913,Europe,Europe
+NLD,CYP,5.535,Europe,Asia
+NLD,CZE,90.009,Europe,Europe
+NLD,DNK,3354.321,Europe,Europe
+NLD,EST,0.982,Europe,Europe
+NLD,FIN,4.039,Europe,Europe
+NLD,FRA,3536.243,Europe,Europe
+NLD,DEU,39380.129,Europe,Europe
+NLD,GHA,0.01,Europe,Africa
+NLD,GRC,246.043,Europe,Europe
+NLD,HUN,0.179,Europe,Europe
+NLD,ISL,18.497,Europe,Europe
+NLD,IRL,462.614,Europe,Europe
+NLD,ISR,649.13,Europe,Asia
+NLD,ITA,109.601,Europe,Europe
+NLD,JPN,35.202,Europe,Asia
+NLD,KEN,0.009,Europe,Africa
+NLD,KOR,0.017,Europe,Asia
+NLD,KWT,1.309,Europe,Asia
+NLD,LVA,822.44,Europe,Europe
+NLD,LTU,2.278,Europe,Europe
+NLD,LUX,5006.915,Europe,Europe
+NLD,MLT,0.821,Europe,Europe
+NLD,ABW,0.62,Europe,North America
+NLD,NOR,39.333,Europe,Europe
+NLD,POL,401.25600000000003,Europe,Europe
+NLD,PRT,24.276,Europe,Europe
+NLD,ROU,77.334,Europe,Europe
+NLD,RWA,0.419,Europe,Africa
+NLD,SAU,0.105,Europe,Asia
+NLD,SRB,0.354,Europe,Europe
+NLD,SVK,1.776,Europe,Europe
+NLD,SVN,1.795,Europe,Europe
+NLD,ZAF,0.022,Europe,Africa
+NLD,ESP,4792.555,Europe,Europe
+NLD,SWZ,660.78,Europe,Africa
+NLD,SWE,2701.255,Europe,Europe
+NLD,CHE,1.814,Europe,Europe
+NLD,GBR,3799.718,Europe,Europe
+NLD,URY,0.169,Europe,South America
+NZL,AUS,257.674,Oceania,Oceania
+NZL,CAN,29.684,Oceania,North America
+NZL,COK,0.249,Oceania,Oceania
+NZL,DNK,1.703,Oceania,Europe
+NZL,FIN,1.046,Oceania,Europe
+NZL,MYS,17.28,Oceania,Asia
+NZL,NLD,104.928,Oceania,Europe
+NZL,VUT,0.032,Oceania,Oceania
+NZL,NOR,4.323,Oceania,Europe
+NZL,SGP,26.336,Oceania,Asia
+NZL,GBR,7.2010000000000005,Oceania,Europe
+NZL,USA,1.581,Oceania,North America
+NZL,WSM,0.769,Oceania,Oceania
+NIC,CRI,0.004,North America,North America
+NIC,SLV,1.48,North America,North America
+NGA,BEL,0.512,Africa,Europe
+NGA,DNK,0.001,Africa,Europe
+NGA,KOR,0.007,Africa,Asia
+NGA,NLD,0.098,Africa,Europe
+NGA,ZAF,0.077,Africa,Africa
+NGA,ARE,0.08,Africa,Asia
+NGA,GBR,0.346,Africa,Europe
+NOR,AUT,0.311,Europe,Europe
+NOR,DNK,0.021,Europe,Europe
+NOR,FIN,0.021,Europe,Europe
+NOR,ISL,1.611,Europe,Europe
+NOR,SWE,132.155,Europe,Europe
+PAK,AFG,9304.222,Asia,Asia
+PAK,LKA,11544.496000000001,Asia,Asia
+PAK,IDN,14162.254,Asia,Asia
+PAK,KAZ,18.318,Asia,Asia
+PAK,JOR,109.029,Asia,Asia
+PAK,KWT,18.043,Asia,Asia
+PAK,MYS,5414.165,Asia,Asia
+PAK,OMN,9510.226999999999,Asia,Asia
+PAK,QAT,5131.8460000000005,Asia,Asia
+PAK,SOM,296.63100000000003,Asia,Africa
+PAK,ARE,25116.81,Asia,Asia
+PAK,USA,17.348,Asia,North America
+PAN,JAM,1.556,North America,North America
+PNG,AUS,231.463,Oceania,Oceania
+PNG,FJI,148.984,Oceania,Oceania
+PRY,BOL,549.835,South America,South America
+PRY,BRA,77396.201,South America,South America
+PRY,VGB,10.011,South America,North America
+PRY,VNM,4594.428,South America,Asia
+PRY,URY,4.542,South America,South America
+PER,AUS,1.218,South America,Oceania
+PER,BEL,1.195,South America,Europe
+PER,CAN,1.44,South America,North America
+PER,CHL,5.024,South America,South America
+PER,ECU,30.791,South America,South America
+PER,ISL,1.178,South America,Europe
+PER,ITA,0.29500000000000004,South America,Europe
+PER,JPN,5.129,South America,Asia
+PER,NLD,0.006,South America,Europe
+PER,ABW,0.128,South America,North America
+PER,ESP,25.928,South America,Europe
+PER,USA,81.257,South America,North America
+PHL,KOR,0.002,Asia,Asia
+POL,DZA,13568.579,Europe,Africa
+POL,AUS,1.191,Europe,Oceania
+POL,AUT,593.918,Europe,Europe
+POL,BEL,347.74199999999996,Europe,Europe
+POL,BGR,0.371,Europe,Europe
+POL,BDI,628.503,Europe,Africa
+POL,BLR,116.807,Europe,Europe
+POL,CAN,0.252,Europe,North America
+POL,CHL,0.003,Europe,South America
+POL,COG,0.047,Europe,Africa
+POL,CUB,27017.643,Europe,North America
+POL,CZE,1240.661,Europe,Europe
+POL,DNK,447.011,Europe,Europe
+POL,EST,1294.128,Europe,Europe
+POL,FIN,84.819,Europe,Europe
+POL,FRA,37.875,Europe,Europe
+POL,DEU,113606.043,Europe,Europe
+POL,GRC,3365.833,Europe,Europe
+POL,HUN,0.469,Europe,Europe
+POL,ISL,1342.565,Europe,Europe
+POL,IRL,133.734,Europe,Europe
+POL,ITA,2477.701,Europe,Europe
+POL,KAZ,15.125,Europe,Asia
+POL,KEN,23462.962,Europe,Africa
+POL,KWT,9.493,Europe,Asia
+POL,LVA,110.652,Europe,Europe
+POL,LTU,223.73499999999999,Europe,Europe
+POL,MRT,6712.208,Europe,Africa
+POL,MDA,20.096,Europe,Europe
+POL,MAR,6586.014,Europe,Africa
+POL,NAM,3944.118,Europe,Africa
+POL,NLD,1893.813,Europe,Europe
+POL,NGA,9982.402,Europe,Africa
+POL,NOR,19252.295,Europe,Europe
+POL,PRT,3223.563,Europe,Europe
+POL,ROU,29.73,Europe,Europe
+POL,RUS,189.83499999999998,Europe,Asia
+POL,RWA,1008.114,Europe,Africa
+POL,SAU,134143.814,Europe,Asia
+POL,SRB,0.126,Europe,Europe
+POL,SVK,35.533,Europe,Europe
+POL,SVN,0.12,Europe,Europe
+POL,ZAF,9706.301,Europe,Africa
+POL,ESP,16204.724,Europe,Europe
+POL,SWE,3774.357,Europe,Europe
+POL,CHE,0.139,Europe,Europe
+POL,TUR,8529.853,Europe,Asia
+POL,UKR,176.456,Europe,Europe
+POL,EGY,35260.511,Europe,Africa
+POL,GBR,314.88800000000003,Europe,Europe
+POL,TZA,6823.71,Europe,Africa
+POL,USA,0.927,Europe,North America
+PRT,AGO,1.343,Europe,Africa
+PRT,BEL,4.782,Europe,Europe
+PRT,CPV,0.15400000000000003,Europe,Africa
+PRT,DNK,39.539,Europe,Europe
+PRT,GNQ,0.699,Europe,Africa
+PRT,EST,34.693,Europe,Europe
+PRT,FRA,44.626000000000005,Europe,Europe
+PRT,DEU,0.195,Europe,Europe
+PRT,IRL,0.043,Europe,Europe
+PRT,ITA,71.46600000000001,Europe,Europe
+PRT,LUX,0.7,Europe,Europe
+PRT,NLD,46.734,Europe,Europe
+PRT,ESP,4795.099,Europe,Europe
+PRT,CHE,0.448,Europe,Europe
+PRT,GBR,0.002,Europe,Europe
+ROU,AZE,27.102,Europe,Asia
+ROU,AUT,5602.996999999999,Europe,Europe
+ROU,BGD,10447.828,Europe,Asia
+ROU,BEL,707.489,Europe,Europe
+ROU,BGR,6565.634,Europe,Europe
+ROU,MMR,2577.517,Europe,Asia
+ROU,CAN,0.598,Europe,North America
+ROU,LKA,11349.247,Europe,Asia
+ROU,COG,1185.928,Europe,Africa
+ROU,HRV,15.485,Europe,Europe
+ROU,CYP,1796.821,Europe,Asia
+ROU,CZE,861.766,Europe,Europe
+ROU,DNK,5.755,Europe,Europe
+ROU,ETH,61888.627,Europe,Africa
+ROU,FRA,14205.44,Europe,Europe
+ROU,DJI,3125.522,Europe,Africa
+ROU,DEU,24005.934999999998,Europe,Europe
+ROU,GRC,17756.073,Europe,Europe
+ROU,HUN,2223.705,Europe,Europe
+ROU,IRL,4322.125999999999,Europe,Europe
+ROU,ISR,28409.335,Europe,Asia
+ROU,ITA,62882.239,Europe,Europe
+ROU,JPN,7686.44,Europe,Asia
+ROU,JOR,270243.868,Europe,Asia
+ROU,KEN,6930.191,Europe,Africa
+ROU,KOR,37419.315,Europe,Asia
+ROU,KWT,6400.026,Europe,Asia
+ROU,LBN,23980.562,Europe,Asia
+ROU,LBR,1397.919,Europe,Africa
+ROU,LBY,17389.458,Europe,Africa
+ROU,LUX,0.006,Europe,Europe
+ROU,MLT,17.286,Europe,Europe
+ROU,MDA,242.534,Europe,Europe
+ROU,NLD,19070.385000000002,Europe,Europe
+ROU,NOR,30.052,Europe,Europe
+ROU,PHL,41075.743,Europe,Asia
+ROU,POL,223.436,Europe,Europe
+ROU,PRT,6354.931,Europe,Europe
+ROU,QAT,4262.672,Europe,Asia
+ROU,SRB,20.815,Europe,Europe
+ROU,SVK,29.987,Europe,Europe
+ROU,VNM,19522.09,Europe,Asia
+ROU,SVN,2.25,Europe,Europe
+ROU,ESP,73004.004,Europe,Europe
+ROU,SDN,96839.656,Europe,Africa
+ROU,SWE,0.054,Europe,Europe
+ROU,CHE,1251.595,Europe,Europe
+ROU,SYR,21767.05,Europe,Asia
+ROU,THA,52626.726,Europe,Asia
+ROU,TUN,5173.059,Europe,Africa
+ROU,TUR,5338.889999999999,Europe,Asia
+ROU,UGA,2131.533,Europe,Africa
+ROU,UKR,251.414,Europe,Europe
+ROU,MKD,8.943,Europe,Europe
+ROU,EGY,298715.243,Europe,Africa
+ROU,GBR,5998.424999999999,Europe,Europe
+ROU,USA,0.025,Europe,North America
+ROU,YEM,9607.614,Europe,Asia
+RUS,ALB,36605.63,Asia,Europe
+RUS,DZA,5.907,Asia,Africa
+RUS,AGO,15609.397,Asia,Africa
+RUS,AZE,264654.49,Asia,Asia
+RUS,AUT,11.175,Asia,Europe
+RUS,BGD,524626.009,Asia,Asia
+RUS,ARM,59190.418000000005,Asia,Asia
+RUS,BRA,17859.528,Asia,South America
+RUS,BGR,580.271,Asia,Europe
+RUS,MMR,2549.785,Asia,Asia
+RUS,BDI,4985.248,Asia,Africa
+RUS,BLR,54009.051999999996,Asia,Europe
+RUS,KHM,158.301,Asia,Asia
+RUS,CMR,78057.451,Asia,Africa
+RUS,CPV,1142.497,Asia,Africa
+RUS,LKA,46647.21,Asia,Asia
+RUS,CHN,10848.559000000001,Asia,Asia
+RUS,COG,31898.485,Asia,Africa
+RUS,COD,24942.438,Asia,Africa
+RUS,CYP,11048.635,Asia,Asia
+RUS,BEN,4546.025,Asia,Africa
+RUS,DNK,1753.115,Asia,Europe
+RUS,ETH,12719.041,Asia,Africa
+RUS,EST,22.807,Asia,Europe
+RUS,FIN,13.419,Asia,Europe
+RUS,FRA,250.549,Asia,Europe
+RUS,DJI,24389.794,Asia,Africa
+RUS,GAB,1557.6,Asia,Africa
+RUS,GEO,86488.648,Asia,Asia
+RUS,GMB,8303.263,Asia,Africa
+RUS,DEU,652.1270000000001,Asia,Europe
+RUS,GHA,43384.827,Asia,Africa
+RUS,GRC,41862.638,Asia,Europe
+RUS,GIN,30913.673,Asia,Africa
+RUS,HTI,6277.804,Asia,North America
+RUS,HUN,15.898,Asia,Europe
+RUS,IDN,72056.678,Asia,Asia
+RUS,IRN,14180.479000000001,Asia,Asia
+RUS,IRL,2190.062,Asia,Europe
+RUS,ISR,74141.47099999999,Asia,Asia
+RUS,ITA,22805.969,Asia,Europe
+RUS,CIV,23408.695,Asia,Africa
+RUS,JPN,9812.291,Asia,Asia
+RUS,KAZ,53696.99,Asia,Asia
+RUS,JOR,1448.923,Asia,Asia
+RUS,KEN,101203.335,Asia,Africa
+RUS,PRK,3747.512,Asia,Asia
+RUS,KOR,1827.429,Asia,Asia
+RUS,KGZ,4110.257,Asia,Asia
+RUS,LAO,1421.748,Asia,Asia
+RUS,LBN,83252.493,Asia,Asia
+RUS,LVA,107782.95700000001,Asia,Europe
+RUS,LBR,2431.65,Asia,Africa
+RUS,LBY,48502.563,Asia,Africa
+RUS,LTU,28670.197,Asia,Europe
+RUS,MDG,11757.665,Asia,Africa
+RUS,MWI,12118.407,Asia,Africa
+RUS,MYS,15207.524000000001,Asia,Asia
+RUS,MLI,21547.667,Asia,Africa
+RUS,MLT,1301.694,Asia,Europe
+RUS,MEX,20936.456,Asia,North America
+RUS,MNG,5131.552,Asia,Asia
+RUS,MDA,48.117000000000004,Asia,Europe
+RUS,MAR,99036.546,Asia,Africa
+RUS,MOZ,52063.046,Asia,Africa
+RUS,OMN,77095.552,Asia,Asia
+RUS,NAM,8501.535,Asia,Africa
+RUS,NLD,393.57500000000005,Asia,Europe
+RUS,NIC,45100.737,Asia,North America
+RUS,NGA,180635.193,Asia,Africa
+RUS,NOR,6030.28,Asia,Europe
+RUS,PER,9890.166,Asia,South America
+RUS,PHL,55309.994,Asia,Asia
+RUS,POL,25.078,Asia,Europe
+RUS,QAT,12943.837,Asia,Asia
+RUS,ROU,658.415,Asia,Europe
+RUS,RWA,12236.097,Asia,Africa
+RUS,SEN,121424.83,Asia,Africa
+RUS,SVK,0.001,Asia,Europe
+RUS,VNM,107206.953,Asia,Asia
+RUS,SOM,612.858,Asia,Africa
+RUS,ZAF,92083.548,Asia,Africa
+RUS,ZWE,2035.501,Asia,Africa
+RUS,ESP,808.121,Asia,Europe
+RUS,SDN,204167.224,Asia,Africa
+RUS,SWZ,1193.697,Asia,Africa
+RUS,SWE,1228.436,Asia,Europe
+RUS,CHE,18807.624,Asia,Europe
+RUS,SYR,15228.936,Asia,Asia
+RUS,TJK,0.063,Asia,Asia
+RUS,THA,300.27,Asia,Asia
+RUS,TGO,6020.942,Asia,Africa
+RUS,ARE,149870.294,Asia,Asia
+RUS,TUN,16197.469,Asia,Africa
+RUS,TUR,1376484.924,Asia,Asia
+RUS,TKM,811.546,Asia,Asia
+RUS,UGA,27497.925,Asia,Africa
+RUS,UKR,7719.948,Asia,Europe
+RUS,MKD,116.257,Asia,Europe
+RUS,EGY,1273639.979,Asia,Africa
+RUS,GBR,884.821,Asia,Europe
+RUS,TZA,104737.505,Asia,Africa
+RUS,BFA,11503.779,Asia,Africa
+RUS,UZB,1770.635,Asia,Asia
+RUS,VEN,41738.262,Asia,South America
+RUS,YEM,319260.787,Asia,Asia
+RWA,BEL,0.35,Africa,Europe
+RWA,UGA,1.663,Africa,Africa
+SAU,IRL,0.014,Asia,Europe
+SAU,SGP,0.035,Asia,Asia
+SAU,ZAF,0.154,Asia,Africa
+SEN,FRA,53.353,Africa,Europe
+SEN,GMB,467.288,Africa,Africa
+SEN,MLI,698.532,Africa,Africa
+SEN,GBR,3.059,Africa,Europe
+SRB,ALB,6704.332,Europe,Europe
+SRB,AUT,1188.616,Europe,Europe
+SRB,BIH,13858.971,Europe,Europe
+SRB,BGR,78.972,Europe,Europe
+SRB,CAN,0.801,Europe,North America
+SRB,HRV,929.923,Europe,Europe
+SRB,DEU,285.489,Europe,Europe
+SRB,GRC,18.694,Europe,Europe
+SRB,HUN,21.267,Europe,Europe
+SRB,IRN,19.344,Europe,Asia
+SRB,IRQ,0.023,Europe,Asia
+SRB,ITA,8872.747,Europe,Europe
+SRB,JOR,691.025,Europe,Asia
+SRB,MNE,1960.812,Europe,Europe
+SRB,NLD,7897.534,Europe,Europe
+SRB,ROU,12004.27,Europe,Europe
+SRB,RUS,2.963,Europe,Asia
+SRB,SGP,12.013,Europe,Asia
+SRB,SVK,0.008,Europe,Europe
+SRB,SVN,96.73700000000001,Europe,Europe
+SRB,CHE,419.981,Europe,Europe
+SRB,TUR,4.445,Europe,Asia
+SRB,UKR,20.946,Europe,Europe
+SRB,MKD,18737.997000000003,Europe,Europe
+SRB,GBR,43.048,Europe,Europe
+SRB,USA,2.387,Europe,North America
+IND,AGO,0.555,Asia,Africa
+IND,AUS,19.263,Asia,Oceania
+IND,BHR,123.609,Asia,Asia
+IND,BGD,2761.805,Asia,Asia
+IND,BTN,0.103,Asia,Asia
+IND,BLZ,0.029,Asia,North America
+IND,BDI,1.008,Asia,Africa
+IND,CAN,2.287,Asia,North America
+IND,LKA,727.129,Asia,Asia
+IND,COG,0.593,Asia,Africa
+IND,COD,0.454,Asia,Africa
+IND,CZE,0.004,Asia,Europe
+IND,BEN,8.819,Asia,Africa
+IND,FIN,0.19,Asia,Europe
+IND,FRA,414.397,Asia,Europe
+IND,GAB,43.323,Asia,Africa
+IND,GMB,1.33,Asia,Africa
+IND,DEU,12.498,Asia,Europe
+IND,GHA,9.865,Asia,Africa
+IND,GIN,10.044,Asia,Africa
+IND,HKG,7.828,Asia,Asia
+IND,IDN,3.1950000000000003,Asia,Asia
+IND,IRL,0.127,Asia,Europe
+IND,CIV,1.702,Asia,Africa
+IND,JAM,0.447,Asia,North America
+IND,JPN,6.833,Asia,Asia
+IND,JOR,883.722,Asia,Asia
+IND,KEN,5.111,Asia,Africa
+IND,PRK,610.944,Asia,Asia
+IND,KOR,0.003,Asia,Asia
+IND,KWT,145.11,Asia,Asia
+IND,LBR,0.209,Asia,Africa
+IND,LUX,0.016,Asia,Europe
+IND,MDG,0.6040000000000001,Asia,Africa
+IND,MWI,13.889,Asia,Africa
+IND,MYS,546.524,Asia,Asia
+IND,MDV,0.216,Asia,Asia
+IND,MUS,0.026,Asia,Africa
+IND,MOZ,0.595,Asia,Africa
+IND,OMN,68.937,Asia,Asia
+IND,NPL,43003.706,Asia,Asia
+IND,CUW,0.002,Asia,North America
+IND,NZL,30.306,Asia,Oceania
+IND,NER,0.37,Asia,Africa
+IND,NGA,91.049,Asia,Africa
+IND,QAT,10.021,Asia,Asia
+IND,RWA,48.82899999999999,Asia,Africa
+IND,SEN,3.535,Asia,Africa
+IND,SYC,95.172,Asia,Africa
+IND,SLE,7.992,Asia,Africa
+IND,SGP,22.126,Asia,Asia
+IND,VNM,77.052,Asia,Asia
+IND,SOM,1505.959,Asia,Africa
+IND,ZAF,6.395,Asia,Africa
+IND,SUR,0.02,Asia,South America
+IND,CHE,0.269,Asia,Europe
+IND,THA,0.014,Asia,Asia
+IND,TGO,1.099,Asia,Africa
+IND,ARE,3711.692,Asia,Asia
+IND,UGA,111.235,Asia,Africa
+IND,GBR,87.56,Asia,Europe
+IND,TZA,4.921,Asia,Africa
+IND,USA,47.286,Asia,North America
+IND,ZMB,0.049,Asia,Africa
+SGP,BRN,20.331,Asia,Asia
+SGP,MMR,328.893,Asia,Asia
+SGP,KHM,0.102,Asia,Asia
+SGP,CHN,12.795,Asia,Asia
+SGP,KOR,0.021,Asia,Asia
+SGP,MYS,131.849,Asia,Asia
+SGP,PHL,0.337,Asia,Asia
+SGP,VNM,0.079,Asia,Asia
+SGP,THA,1.38,Asia,Asia
+SGP,USA,0.01,Asia,North America
+SVK,AUT,29502.714,Europe,Europe
+SVK,BEL,36.354,Europe,Europe
+SVK,BIH,9.867,Europe,Europe
+SVK,BGR,222.981,Europe,Europe
+SVK,HRV,106.395,Europe,Europe
+SVK,CZE,11714.997,Europe,Europe
+SVK,DNK,45.411,Europe,Europe
+SVK,FRA,107.82,Europe,Europe
+SVK,DEU,42215.088,Europe,Europe
+SVK,GRC,371.47,Europe,Europe
+SVK,HUN,17608.213,Europe,Europe
+SVK,ISR,36.506,Europe,Asia
+SVK,ITA,22469.398,Europe,Europe
+SVK,KAZ,26.152,Europe,Asia
+SVK,LTU,126.199,Europe,Europe
+SVK,LUX,313.481,Europe,Europe
+SVK,NLD,415.184,Europe,Europe
+SVK,POL,43667.048,Europe,Europe
+SVK,ROU,484.897,Europe,Europe
+SVK,SRB,0.001,Europe,Europe
+SVK,SVN,2035.931,Europe,Europe
+SVK,CHE,1856.0910000000001,Europe,Europe
+SVK,UKR,0.207,Europe,Europe
+VNM,KHM,9142.64,Asia,Asia
+VNM,CYP,153.552,Asia,Asia
+VNM,LAO,68.754,Asia,Asia
+VNM,NOR,0.53,Asia,Europe
+VNM,SWE,0.78,Asia,Europe
+SVN,AUT,1832.1999999999998,Europe,Europe
+SVN,BIH,27.23,Europe,Europe
+SVN,HRV,267.892,Europe,Europe
+SVN,DNK,0.066,Europe,Europe
+SVN,FRA,0.045,Europe,Europe
+SVN,DEU,491.91499999999996,Europe,Europe
+SVN,HUN,178.01600000000002,Europe,Europe
+SVN,ITA,20457.037,Europe,Europe
+SVN,MLT,1473.236,Europe,Europe
+SVN,MNE,6.023000000000001,Europe,Europe
+SVN,NLD,24.666,Europe,Europe
+SVN,POL,404.886,Europe,Europe
+SVN,ROU,0.007,Europe,Europe
+SVN,RUS,2.3200000000000003,Europe,Asia
+SVN,SRB,41.151,Europe,Europe
+SVN,SVK,4.637,Europe,Europe
+ZAF,AUS,0.097,Africa,Oceania
+ZAF,BWA,11372.395,Africa,Africa
+ZAF,COD,4.779,Africa,Africa
+ZAF,HKG,4.71,Africa,Asia
+ZAF,LSO,4887.186,Africa,Africa
+ZAF,MDG,0.388,Africa,Africa
+ZAF,MWI,0.094,Africa,Africa
+ZAF,MYS,16.446,Africa,Asia
+ZAF,MUS,0.037,Africa,Africa
+ZAF,MOZ,46.967,Africa,Africa
+ZAF,NAM,5576.06,Africa,Africa
+ZAF,SHN,0.037,Africa,Africa
+ZAF,ZWE,28048.171,Africa,Africa
+ZAF,SWZ,3315.1189999999997,Africa,Africa
+ZAF,SWE,10.052,Africa,Europe
+ZAF,GBR,8.219000000000001,Africa,Europe
+ZAF,USA,0.391,Africa,North America
+ZAF,ZMB,7039.557,Africa,Africa
+ZWE,ZAF,0.105,Africa,Africa
+ZWE,ZMB,281.30199999999996,Africa,Africa
+ESP,DZA,6.715999999999999,Europe,Africa
+ESP,AND,14.938,Europe,Europe
+ESP,ARG,11.095,Europe,South America
+ESP,AUT,342.856,Europe,Europe
+ESP,BEL,3633.2929999999997,Europe,Europe
+ESP,CAN,0.022,Europe,North America
+ESP,CHN,0.058,Europe,Asia
+ESP,HRV,0.917,Europe,Europe
+ESP,CYP,0.086,Europe,Asia
+ESP,CZE,2.569,Europe,Europe
+ESP,DNK,22.861,Europe,Europe
+ESP,FRA,10639.994,Europe,Europe
+ESP,DEU,582.626,Europe,Europe
+ESP,GIB,0.439,Europe,Europe
+ESP,GRC,26.771,Europe,Europe
+ESP,IRN,62.227,Europe,Asia
+ESP,IRQ,279.991,Europe,Asia
+ESP,IRL,17.226,Europe,Europe
+ESP,ITA,44531.28199999999,Europe,Europe
+ESP,KWT,0.28,Europe,Asia
+ESP,LBY,1995.483,Europe,Africa
+ESP,LUX,0.554,Europe,Europe
+ESP,MAR,297.90799999999996,Europe,Africa
+ESP,NLD,937.771,Europe,Europe
+ESP,NIC,0.001,Europe,North America
+ESP,POL,1776.368,Europe,Europe
+ESP,PRT,31450.748,Europe,Europe
+ESP,ROU,71.891,Europe,Europe
+ESP,SVK,21.609,Europe,Europe
+ESP,ZAF,1.526,Europe,Africa
+ESP,SWE,831.207,Europe,Europe
+ESP,ARE,2327.997,Europe,Asia
+ESP,TUN,36494.727,Europe,Africa
+ESP,TUR,24882.448,Europe,Asia
+ESP,GBR,50.844,Europe,Europe
+SWZ,ZAF,0.017,Africa,Africa
+SWE,DZA,35771.114,Europe,Africa
+SWE,AZE,0.107,Europe,Asia
+SWE,AUT,0.846,Europe,Europe
+SWE,CHN,0.261,Europe,Asia
+SWE,CYP,1.163,Europe,Asia
+SWE,DNK,14592.051,Europe,Europe
+SWE,EST,14.713,Europe,Europe
+SWE,FIN,51.065,Europe,Europe
+SWE,FRA,1289.844,Europe,Europe
+SWE,DEU,10743.738,Europe,Europe
+SWE,GRC,0.105,Europe,Europe
+SWE,HUN,0.951,Europe,Europe
+SWE,ISL,319.11,Europe,Europe
+SWE,IRL,2800.149,Europe,Europe
+SWE,ITA,8.972,Europe,Europe
+SWE,JPN,3.172,Europe,Asia
+SWE,LVA,8.833,Europe,Europe
+SWE,LTU,19077.857,Europe,Europe
+SWE,NLD,7478.478,Europe,Europe
+SWE,NOR,8054.332,Europe,Europe
+SWE,PRT,4953.671,Europe,Europe
+SWE,SVK,10.575,Europe,Europe
+SWE,ZAF,0.004,Europe,Africa
+SWE,ESP,18455.867000000002,Europe,Europe
+SWE,CHE,5.568,Europe,Europe
+SWE,GBR,2400.62,Europe,Europe
+SWE,USA,2.5370000000000004,Europe,North America
+CHE,AUT,54.702999999999996,Europe,Europe
+CHE,BEL,0.001,Europe,Europe
+CHE,BGR,0.001,Europe,Europe
+CHE,HRV,0.001,Europe,Europe
+CHE,CZE,44.864999999999995,Europe,Europe
+CHE,DNK,0.002,Europe,Europe
+CHE,EST,0.013,Europe,Europe
+CHE,FIN,0.046,Europe,Europe
+CHE,FRA,71.64699999999999,Europe,Europe
+CHE,DEU,58.134,Europe,Europe
+CHE,HKG,0.03,Europe,Asia
+CHE,HUN,0.011,Europe,Europe
+CHE,ITA,0.009,Europe,Europe
+CHE,JPN,0.001,Europe,Asia
+CHE,KEN,3494.257,Europe,Africa
+CHE,LVA,0.01,Europe,Europe
+CHE,LTU,0.015,Europe,Europe
+CHE,LUX,0.005,Europe,Europe
+CHE,MDG,0.001,Europe,Africa
+CHE,MYS,249.368,Europe,Asia
+CHE,MAR,0.005,Europe,Africa
+CHE,NLD,3.723,Europe,Europe
+CHE,NOR,54.658,Europe,Europe
+CHE,POL,0.011,Europe,Europe
+CHE,PRT,0.401,Europe,Europe
+CHE,QAT,1.056,Europe,Asia
+CHE,SVK,0.012,Europe,Europe
+CHE,SVN,2.385,Europe,Europe
+CHE,ESP,0.006,Europe,Europe
+CHE,SWE,0.034,Europe,Europe
+CHE,TGO,0.03,Europe,Africa
+CHE,TUR,1.968,Europe,Asia
+THA,MMR,33.052,Asia,Asia
+THA,FIN,0.487,Asia,Europe
+THA,HKG,0.002,Asia,Asia
+THA,IDN,0.145,Asia,Asia
+THA,JPN,0.465,Asia,Asia
+THA,KOR,0.221,Asia,Asia
+THA,LAO,1.393,Asia,Asia
+THA,MDV,0.964,Asia,Asia
+THA,PHL,0.002,Asia,Asia
+THA,SGP,0.005,Asia,Asia
+THA,SWE,20.247999999999998,Asia,Europe
+THA,USA,5.847,Asia,North America
+TGO,BEL,0.029,Africa,Europe
+TGO,BFA,22.844,Africa,Africa
+ARE,AFG,0.991,Asia,Asia
+ARE,AGO,3.049,Asia,Africa
+ARE,AZE,0.49,Asia,Asia
+ARE,AUS,27.773,Asia,Oceania
+ARE,BHR,31.429,Asia,Asia
+ARE,ARM,0.226,Asia,Asia
+ARE,BRN,0.272,Asia,Asia
+ARE,LKA,14666.033,Asia,Asia
+ARE,COD,4.114,Asia,Africa
+ARE,DJI,8.713,Asia,Africa
+ARE,IRN,0.408,Asia,Asia
+ARE,IRQ,2341.872,Asia,Asia
+ARE,CIV,1.474,Asia,Africa
+ARE,JOR,32.862,Asia,Asia
+ARE,KWT,1549.426,Asia,Asia
+ARE,LBN,0.487,Asia,Asia
+ARE,MDG,0.14400000000000002,Asia,Africa
+ARE,MWI,5553.894,Asia,Africa
+ARE,MYS,171.19,Asia,Asia
+ARE,MDV,0.304,Asia,Asia
+ARE,MUS,0.072,Asia,Africa
+ARE,OMN,8620.847000000002,Asia,Asia
+ARE,PAK,0.057,Asia,Asia
+ARE,RUS,1523.9070000000002,Asia,Asia
+ARE,RWA,0.005,Asia,Africa
+ARE,SAU,71.951,Asia,Asia
+ARE,SEN,0.014,Asia,Africa
+ARE,SYC,105.907,Asia,Africa
+ARE,SOM,71.667,Asia,Africa
+ARE,SWE,2.326,Asia,Europe
+ARE,USA,12.232,Asia,North America
+ARE,YEM,2.215,Asia,Asia
+ARE,ZMB,0.126,Asia,Africa
+TUN,CAN,0.065,Africa,North America
+TUN,FRA,0.388,Africa,Europe
+TUN,ARE,7.99,Africa,Asia
+TUR,AZE,232.233,Asia,Asia
+TUR,AUS,33.274,Asia,Oceania
+TUR,AUT,0.111,Asia,Europe
+TUR,BEL,2047.454,Asia,Europe
+TUR,BIH,0.364,Asia,Europe
+TUR,BGR,1.089,Asia,Europe
+TUR,CAN,0.014,Asia,North America
+TUR,CHN,0.143,Asia,Asia
+TUR,CYP,457.73,Asia,Asia
+TUR,FRA,10.558,Asia,Europe
+TUR,GEO,19.948,Asia,Asia
+TUR,DEU,47.004000000000005,Asia,Europe
+TUR,GHA,0.18,Asia,Africa
+TUR,GRC,1.0859999999999999,Asia,Europe
+TUR,IDN,0.04,Asia,Asia
+TUR,IRQ,16255.368,Asia,Asia
+TUR,ISR,43.687,Asia,Asia
+TUR,ITA,9219.868,Asia,Europe
+TUR,KAZ,4.654,Asia,Asia
+TUR,JOR,1.478,Asia,Asia
+TUR,KOR,1005.954,Asia,Asia
+TUR,LUX,0.129,Asia,Europe
+TUR,MYS,61.276,Asia,Asia
+TUR,MAR,0.981,Asia,Africa
+TUR,NLD,1796.914,Asia,Europe
+TUR,NZL,1.046,Asia,Oceania
+TUR,NOR,2114.381,Asia,Europe
+TUR,RWA,0.023,Asia,Africa
+TUR,SYC,0.017,Asia,Africa
+TUR,IND,0.058,Asia,Asia
+TUR,SVN,0.111,Asia,Europe
+TUR,ZAF,0.197,Asia,Africa
+TUR,ESP,0.595,Asia,Europe
+TUR,SWE,14.850000000000001,Asia,Europe
+TUR,CHE,476.68100000000004,Asia,Europe
+TUR,SYR,3675.289,Asia,Asia
+TUR,EGY,348.5,Asia,Africa
+TUR,GBR,10924.915,Asia,Europe
+TUR,USA,2.202,Asia,North America
+TKM,KAZ,21.768,Asia,Asia
+UGA,RWA,16.242,Africa,Africa
+UGA,ZAF,0.005,Africa,Africa
+UKR,AZE,45.033,Europe,Asia
+UKR,ARM,3514.544,Europe,Asia
+UKR,BGR,922.396,Europe,Europe
+UKR,MMR,9170.107,Europe,Asia
+UKR,BLR,5957.728,Europe,Europe
+UKR,KHM,320.11199999999997,Europe,Asia
+UKR,DNK,1011.363,Europe,Europe
+UKR,ECU,6698.937,Europe,South America
+UKR,FRA,1641.774,Europe,Europe
+UKR,DEU,5040.685,Europe,Europe
+UKR,GRC,4615.286,Europe,Europe
+UKR,IDN,616618.625,Europe,Asia
+UKR,ISR,92057.3,Europe,Asia
+UKR,ITA,44163.88,Europe,Europe
+UKR,CIV,2058.038,Europe,Africa
+UKR,JOR,37106.963,Europe,Asia
+UKR,KEN,44884.185,Europe,Africa
+UKR,KOR,119335.223,Europe,Asia
+UKR,KWT,8.459,Europe,Asia
+UKR,LTU,1403.307,Europe,Europe
+UKR,MYS,45913.888999999996,Europe,Asia
+UKR,MAR,180418.555,Europe,Africa
+UKR,NLD,30301.91,Europe,Europe
+UKR,NOR,539.026,Europe,Europe
+UKR,PHL,247420.513,Europe,Asia
+UKR,POL,1241.6480000000001,Europe,Europe
+UKR,SEN,8165.132,Europe,Africa
+UKR,ZAF,16162.917,Europe,Africa
+UKR,ZWE,8002.138,Europe,Africa
+UKR,ESP,108022.777,Europe,Europe
+UKR,CHE,1460.77,Europe,Europe
+UKR,THA,185377.979,Europe,Asia
+UKR,ARE,3186.941,Europe,Asia
+UKR,TUN,199889.845,Europe,Africa
+UKR,TUR,211838.658,Europe,Asia
+UKR,GBR,13855.557,Europe,Europe
+UKR,BFA,122.926,Europe,Africa
+UKR,YEM,71708.162,Europe,Asia
+MKD,ALB,436.252,Europe,Europe
+MKD,GRC,381.287,Europe,Europe
+MKD,MNE,0.155,Europe,Europe
+MKD,SRB,432.013,Europe,Europe
+MKD,USA,0.746,Europe,North America
+EGY,AUS,0.904,Africa,Oceania
+EGY,AUT,0.284,Africa,Europe
+EGY,ITA,8.641,Africa,Europe
+EGY,SGP,6.052,Africa,Asia
+GBR,DZA,11504.315,Europe,Africa
+GBR,ARG,0.297,Europe,South America
+GBR,AUS,331.829,Europe,Oceania
+GBR,AUT,0.035,Europe,Europe
+GBR,BRB,24.343,Europe,North America
+GBR,BEL,4374.309,Europe,Europe
+GBR,BRN,0.253,Europe,Asia
+GBR,BGR,10.883,Europe,Europe
+GBR,BDI,3202.361,Europe,Africa
+GBR,CAN,2.345,Europe,North America
+GBR,CHN,118.079,Europe,Asia
+GBR,CYP,1.261,Europe,Asia
+GBR,CZE,28.542,Europe,Europe
+GBR,DNK,719.317,Europe,Europe
+GBR,FIN,0.654,Europe,Europe
+GBR,FRA,279.521,Europe,Europe
+GBR,DEU,1644.167,Europe,Europe
+GBR,GHA,0.042,Europe,Africa
+GBR,GRC,11.251,Europe,Europe
+GBR,HKG,1.48,Europe,Asia
+GBR,ISL,3227.889,Europe,Europe
+GBR,IRQ,6.408,Europe,Asia
+GBR,IRL,39545.38,Europe,Europe
+GBR,ITA,4881.400000000001,Europe,Europe
+GBR,JAM,0.295,Europe,North America
+GBR,KEN,2162.731,Europe,Africa
+GBR,LBN,8.383,Europe,Asia
+GBR,LTU,1.618,Europe,Europe
+GBR,LUX,0.499,Europe,Europe
+GBR,MYS,147.852,Europe,Asia
+GBR,MLT,40.41,Europe,Europe
+GBR,MAR,1492.703,Europe,Africa
+GBR,NAM,0.002,Europe,Africa
+GBR,NLD,58574.015999999996,Europe,Europe
+GBR,NZL,0.265,Europe,Oceania
+GBR,NOR,557.483,Europe,Europe
+GBR,POL,8.939,Europe,Europe
+GBR,PRT,29368.721999999998,Europe,Europe
+GBR,ROU,12.158,Europe,Europe
+GBR,IND,22.417,Europe,Asia
+GBR,SGP,0.24,Europe,Asia
+GBR,SVN,0.118,Europe,Europe
+GBR,ZAF,44.819,Europe,Africa
+GBR,ZWE,11638.665,Europe,Africa
+GBR,ESP,53899.987,Europe,Europe
+GBR,SDN,10.854,Europe,Africa
+GBR,SWE,4438.972,Europe,Europe
+GBR,CHE,1.309,Europe,Europe
+GBR,ARE,11.137,Europe,Asia
+GBR,TUR,5473.356,Europe,Asia
+GBR,USA,5300.678000000001,Europe,North America
+TZA,BDI,10.846,Africa,Africa
+TZA,MWI,0.201,Africa,Africa
+USA,DZA,120992.55099999999,North America,Africa
+USA,AGO,3087.874,North America,Africa
+USA,ATG,4.349,North America,North America
+USA,ARG,27.031,North America,South America
+USA,AUS,34.683,North America,Oceania
+USA,AUT,0.062,North America,Europe
+USA,BGD,51822.984,North America,Asia
+USA,BRB,4724.429,North America,North America
+USA,BEL,10096.949,North America,Europe
+USA,BMU,42.42699999999999,North America,North America
+USA,BRA,88515.428,North America,South America
+USA,BLZ,7715.044,North America,North America
+USA,MMR,21591.688000000002,North America,Asia
+USA,BDI,2009.981,North America,Africa
+USA,KHM,385.691,North America,Asia
+USA,CAN,38352.441,North America,North America
+USA,LKA,27777.519,North America,Asia
+USA,CHL,92332.051,North America,South America
+USA,CHN,77116.56599999999,North America,Asia
+USA,COL,146586.713,North America,South America
+USA,COD,11918.649,North America,Africa
+USA,CRI,21882.927,North America,North America
+USA,CZE,258.638,North America,Europe
+USA,DOM,68580.682,North America,North America
+USA,ECU,108445.587,North America,South America
+USA,SLV,81280.659,North America,North America
+USA,ETH,64813.249,North America,Africa
+USA,FJI,0.049,North America,Oceania
+USA,FIN,44.837,North America,Europe
+USA,FRA,7.720999999999999,North America,Europe
+USA,GEO,6185.43,North America,Asia
+USA,DEU,2979.204,North America,Europe
+USA,GHA,13599.754,North America,Africa
+USA,GRD,2769.211,North America,North America
+USA,GTM,138467.532,North America,North America
+USA,GUY,7787.093,North America,South America
+USA,HTI,29359.073,North America,North America
+USA,HND,66594.196,North America,North America
+USA,HKG,3207.053,North America,Asia
+USA,IDN,315211.69800000003,North America,Asia
+USA,IRQ,107839.748,North America,Asia
+USA,IRL,0.97,North America,Europe
+USA,ISR,31523.422,North America,Asia
+USA,ITA,202946.627,North America,Europe
+USA,JAM,53810.543,North America,North America
+USA,JPN,636023.67,North America,Asia
+USA,JOR,3.866,North America,Asia
+USA,KEN,28930.541,North America,Africa
+USA,KOR,322015.984,North America,Asia
+USA,KWT,7.957,North America,Asia
+USA,LBR,4019.44,North America,Africa
+USA,LBY,4822.168,North America,Africa
+USA,LUX,16.636,North America,Europe
+USA,MWI,7912.875,North America,Africa
+USA,MYS,133027.811,North America,Asia
+USA,MLI,1375.0,North America,Africa
+USA,MEX,816025.1150000001,North America,North America
+USA,MAR,7202.173,North America,Africa
+USA,MOZ,18314.295,North America,Africa
+USA,OMN,26656.013,North America,Asia
+USA,NAM,1238.601,North America,Africa
+USA,NLD,0.786,North America,Europe
+USA,SXM,12.162,North America,North America
+USA,NIC,5826.331,North America,North America
+USA,NGA,489147.24199999997,North America,Africa
+USA,PAN,36090.011,North America,North America
+USA,PNG,16.425,North America,Oceania
+USA,PER,111392.633,North America,South America
+USA,PHL,738767.48,North America,Asia
+USA,POL,0.116,North America,Europe
+USA,PRT,6189.454,North America,Europe
+USA,RUS,130.0,North America,Asia
+USA,RWA,4303.08,North America,Africa
+USA,LCA,1503.474,North America,North America
+USA,VCT,6514.661,North America,North America
+USA,SAU,5956.422,North America,Asia
+USA,SEN,2097.094,North America,Africa
+USA,SGP,17795.334,North America,Asia
+USA,VNM,68817.38299999999,North America,Asia
+USA,ZAF,33257.450000000004,North America,Africa
+USA,ZWE,1857.326,North America,Africa
+USA,ESP,3106.23,North America,Europe
+USA,SDN,11617.35,North America,Africa
+USA,SWZ,2868.107,North America,Africa
+USA,SWE,1.234,North America,Europe
+USA,CHE,2.143,North America,Europe
+USA,THA,157682.185,North America,Asia
+USA,TTO,27317.386,North America,North America
+USA,ARE,10726.806,North America,Asia
+USA,TUN,5042.802,North America,Africa
+USA,UGA,2454.73,North America,Africa
+USA,EGY,185268.54499999998,North America,Africa
+USA,GBR,11255.878,North America,Europe
+USA,TZA,22716.944,North America,Africa
+USA,VEN,28876.248,North America,South America
+USA,YEM,287626.034,North America,Asia
+URY,DZA,17763.187,South America,Africa
+URY,BRA,27946.939,South America,South America
+URY,CHL,0.08,South America,South America
+URY,IDN,5879.705,South America,Asia
+URY,MYS,924.911,South America,Asia
+URY,VNM,107.834,South America,Asia
+URY,CHE,836.698,South America,Europe
+UZB,AFG,12964.58,Asia,Asia
+UZB,KGZ,963.444,Asia,Asia
+UZB,TJK,7495.888,Asia,Asia
+YEM,MYS,1.103,Asia,Asia
+YEM,ARE,6.269,Asia,Asia
+ZMB,KEN,0.002,Africa,Africa
+ZMB,ZAF,0.31,Africa,Africa
